@@ -1,6 +1,140 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            15.01. – 21.01.2024&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="actualnosci_day">
+            <td><b>PONIEDZIAŁEK, 15&nbsp;stycznia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">6.30</td>
+            <td>+ Zdzisława Bernasia 4&nbsp;rocz.&nbsp;śm.</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Marię Bryła</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Honoratę Gajek</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>WTOREK, 16&nbsp;stycznia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">6.30</td>
+            <td>+ Marię Bryła</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>O&nbsp;potrzebne łaski i&nbsp;żywą wiarę dla dzieci,
+            i&nbsp;chrześniaka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Weronikę, Mariana Trzosów</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 17&nbsp;stycznia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Antoniego opata</b></td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">6.30</td>
+            <td>W&nbsp;intencji Asi z&nbsp;racji urodzin o&nbsp;Boże
+            błog.</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Grzegorzea Pęgielskiego 1&nbsp;rocz. śm.</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Teresę i&nbsp;Józefa Janasów w&nbsp;rocz. śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 18&nbsp;stycznia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">6.30</td>
+            <td>+ Grażynę Mądrą</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Józefę Bocul</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>O&nbsp;Boże błog. dla Mai Szwagierczak
+            w&nbsp;9&nbsp;rocz.&nbsp;ur.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 19&nbsp;stycznia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Józefa Sebastiana Pelczara,
+            biskupa</b></td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">6.30</td>
+            <td>+ Mariannę Nadziejko</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Mieczysława Świerkulę</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Henryka Seprucha</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Stanisławę Regulską</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 20&nbsp;stycznia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Krystynę Dubiel</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Jana Popka</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Jerzego Sochę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 21&nbsp;stycznia</b></td>
+            <td><b>
+                <span style="color: red">III&nbsp;Niedziela Zwykła<br>
+                Niedziela Słowa Bożego</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>+ Mariannę i&nbsp;Wacława Niziałków</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>+ Agnieszkę Pietrusińską</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>+ Stefanię, Adama Osuch, Sławomira, Kazimierę
+            i&nbsp;Stanisława Rykowskich</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>Za&nbsp;parafian</td>
+        </tr>
+
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Tadeusza Fijałkowskiego</td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
             8.01. – 14.01.2024&nbsp;r.
         </h3>
     </div>
