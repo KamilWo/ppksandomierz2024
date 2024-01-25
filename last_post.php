@@ -1,5 +1,18 @@
 <div class="card">
     <div class="card-header">
+        <h3>22.&nbsp;czerwca 2024&nbsp;r.</h3>
+        <h3>PIELGRZYMKA DO&nbsp;WŁOCH 22-29&nbsp;czerwca 2024&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        Szczegółowe informacje dotyczące Pielgrzymki do&nbsp;Włoch
+        w&nbsp;czerwcu 2024 roku dostępne są&nbsp;do&nbsp;pobrania
+        w&nbsp;<a href="static/download/2024_PIELGRZYMKA_DO_WŁOCH-informacje.pdf">pliku</a>.
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>14.&nbsp;stycznia 2024&nbsp;r.</h3>
         <h3>II&nbsp;NIEDZIELA ZWYKŁA, Rok&nbsp;B</h3>
     </div>
