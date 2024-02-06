@@ -1,146 +1,135 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            29.01. – 4.02.2024&nbsp;r.
+            5.02. – 11.02.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 29&nbsp;stycznia</b></td>
+            <td><b>PONIEDZIAŁEK, 5&nbsp;lutego</b></td>
+            <td><b>Wspomnienie św.&nbsp;Agaty dziewicy
+            i&nbsp;męczennicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Henryka i&nbsp;Stanisławę Krakowiaków</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Macieja Ziemnickiego</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Marię Bryła</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>WTOREK, 6&nbsp;lutego</b></td>
+            <td><b>Wspomnienie świętych męczenników Pawła Miki
+            i&nbsp;Towarzyszy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Annę i&nbsp;Stanisława Janiszewskich</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Irenę w&nbsp;rocz. śm., Tadeusza, Krzysztofa,
+            Mirosława Kołaczów</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Marię Bryła</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 7&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
+            <td>+ Jacka Sochę</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Zofię Gołębiowską</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Krystynę Dubiel</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 8&nbsp;lutego</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Stanisławę, Mariana Mądrych, zm. z&nbsp;rodz.
+            i&nbsp;dusze w&nbsp;czyśćcu cierpiące</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Jerzego Sochę</td>
+        </tr><tr style="border-bottom: 2px solid black;">
             <td>+ Zofię Gołębiowską</td>
         </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>Dziękczynna z&nbsp;racji urodzin Krystiana</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>Dziękczynno-błagalna z&nbsp;racji urodzin Agnieszki
-            o&nbsp;Boże Błog., potrzebne łaski i&nbsp;opiekę Matki
-            Bożej</td>
-        </tr>
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 30&nbsp;stycznia</b></td>
+            <td><b>PIĄTEK, 9&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
-        <tr>
-            <td class="center" rowspan="2">6.30</td>
-            <td>+ Krystynę Dubiel</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Czesława Dudę</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Tadeusza Fijałkowskiego</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>Dziękczynno-błagalna i&nbsp;Miłosierdzie Boże, Wiarę,
-            Nadzieję i&nbsp;Miłość, łaskę pokory, nawrócenie
-            i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 31&nbsp;stycznia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Jana Bosko, prezbitera</b></td>
-        </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Krystynę Dubiel</td>
+            <td>+ Honoratę Gajek</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>+ Marię Bryła</td>
+            <td>Dziękczynno-błagalna z&nbsp;okazji urodzin Joanny
+            o&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę MB
+            dla całej rodziny</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Kazimierza i&nbsp;Mariannę Kieszkowskich, zm.
-            z&nbsp;rodz. Kieszkowskich i&nbsp;Nizielskich</td>
+            <td>+ Andrzeja Skoczylasa i&nbsp;opiekę MB nad
+            rodziną</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 1&nbsp;lutego</b></td>
-            <td><b>I&nbsp;Czwartek miesiąca</b></td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">6.30</td>
-            <td>O&nbsp;świętość kapłanów i&nbsp;nowe powołania</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Franciszka Turka</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
-            Krystynę, Mariana i&nbsp;Janinę</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Marię Bryła</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 2&nbsp;lutego</b></td>
-            <td><b><span style="color: red">Święto Ofiarowania
-            Pańskiego</span><br>
-            I&nbsp;Piątek miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>O&nbsp;łaskę żywej wiary dla dzieci
-            i&nbsp;chrześniaków</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>+ Franciszka 7&nbsp;rocz. śm., Barbarę Misztalów</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">14.00</td>
-            <td>MSZA ŚWIĘTA ZE&nbsp;ZGROMADZENIAMI ZAKONNYMI</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Józefa Wasińskiego – miesiąc po&nbsp;śmierci</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Jerzego Sochę</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>SOBOTA, 3&nbsp;lutego</b></td>
-            <td><b>I&nbsp;Sobota miesiąca</b></td>
+            <td><b>SOBOTA, 10&nbsp;lutego</b></td>
+            <td><b>Wspomnienie św.&nbsp;Scholastyki, dziewicy</b></td>
         </tr>
         <tr>
             <td class="center" rowspan="2">6.30</td>
             <td>+ Krzysztofa Czerwca</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Leszka Bobolę – miesiąc po&nbsp;śmierci</td>
+            <td>+ Adama Urbaniaka</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>LM</td>
+            <td>O&nbsp;doświadczenie Bożej miłości i&nbsp;łaskę
+            nawrócenia dla męża Piotra, i&nbsp;ojca Tadeusza</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Marię Bryła</td>
+            <td>+ Mariannę i&nbsp;Juliana Godwinów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 4&nbsp;lutego</b></td>
+            <td><b>NIEDZIELA, 11&nbsp;lutego</b></td>
             <td><b>
-                <span style="color: red">V&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">VI&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Piotra 11&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Janinę i&nbsp;Wacława Orłowskich, Stefana
-            Szpakowskiego i&nbsp;Mariannę Dyl</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>KŻR – od&nbsp;Róży Róż. – zelator Ewa Łukawska</td>
+            <td>+ Wojciecha Dobrocha w&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Kazimierza Kondeusza 9&nbsp;rocz. śm.</td>
+            <td>+ Donatę 14&nbsp;rocz. śm., Mieczysława, Michała
+            i&nbsp;Helenę Pawlikowskich</td>
         </tr>
 
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Jana i&nbsp;Andrzeja Popków</td>
+            <td>Dziękczynno-błagalna o&nbsp;Miłosierdzie Boże, Wiarę,
+            Nadzieję i&nbsp;Miłość, łaskę pokoju i&nbsp;nawrócenie,
+            i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
         </tr>
     </tbody>
 </table>
