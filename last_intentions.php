@@ -1,75 +1,77 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            19.02. – 25.02.2024&nbsp;r.
+            26.02. – 03.03.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 19&nbsp;lutego</b></td>
+            <td><b>PONIEDZIAŁEK, 26&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1) + Aleksandrę Ciamagę<br>
-            2) + Edwarda Ziebę</td>
+            <td>1. + Józefę Bociek<br>
+            2. + Jerzego Polek</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) Janinę Biernat<br>
-            2) Zofię Gołębiowską</td>
+            <td>1. + Grażynę Mądrą<br>
+            2. + Henryka Krakowiaka</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 20&nbsp;lutego</b></td>
+            <td><b>WTOREK, 27&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1) + Jana Popka</td>
+            <td>1. + Mariana Wójcika</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) + Annę Strawczyńską<br>
-            2) + Honoratę Gajek</td>
+            <td>1. + Mariannę Nadziejko<br>
+            2. + Jacka Stolę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 21&nbsp;lutego</b></td>
+            <td><b>ŚRODA, 28&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1) + Jacka Stolę</td>
+            <td>1. + Marię Woś rocz. śm., Franciszka, Stefanię
+            Kowalskich, Wiesławę Wałcerz</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) Krzysztofa i&nbsp;Wiesława Zwolskich</td>
+            <td>1. + Józefę Bociek<br>
+            2. + Marię Homę 1&nbsp;rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 22&nbsp;lutego</b></td>
-            <td><b>Święto Katedry św.&nbsp;Piotra Apostoła</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1) + Genowefę i&nbsp;Tadeusza Szymańskich; Annę
-                i&nbsp;Ryszarda Moszczyńskich, zm. z&nbsp;rodz.
-                Szymańskich<br>
-                2) Weronikę i&nbsp;Piotra Konwalików, Bronisławę
-                i&nbsp;Jana Regułów</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1) + Grażynę Mądrą</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 23&nbsp;lutego</b></td>
+            <td><b>CZWARTEK, 29&nbsp;lutego</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1) + Jerzego Socha</td>
+            <td>1. + Jacka Stolę<br>
+            2. O&nbsp;Boże błog., łaskę zdrowia dla całej rodziny,
+            w&nbsp;szczególności dla Krystyny</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Władysławę rocz. śm., Józefa, Zygmunta, Andrzeja
+                Skroków<br>
+            2. + Alicję Rożkowicz</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 1&nbsp;marca</b></td>
+            <td><b>I&nbsp;Piątek miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Jerzego Sochę</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">17.00</td>
@@ -77,48 +79,48 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) + Leszka Bobole<br>
-            2) Henryka Krakowiaka</td>
+            <td>1. + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                Krystynę i&nbsp;Mariana, Janinę<br>
+            2. + Krystynę Dubiel</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 24&nbsp;lutego</b></td>
-            <td><b>Wspomnienie św.&nbsp;Scholastyki, dziewicy</b></td>
+            <td><b>SOBOTA, 2&nbsp;marca</b></td>
+            <td><b>I&nbsp;Sobota miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1) + Krzysztofa Czerwca</td>
+            <td>1. + Macieja Ziemnickiego<br>
+            2. Helenę, Jerzego, Waldemara Bażantów</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) + Józefa Sobieraja<br>
-            2) + Macieja Ziemnickiego </td>
+            <td>1. LM<br>
+            2. + Stanisława Czosnka m-c po&nbsp;śmierci</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 25&nbsp;lutego</b></td>
+            <td><b>NIEDZIELA, 3&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">II&nbsp;Niedziela Wielkiego
+                <span style="color: red">III&nbsp;Niedziela Wielkiego
                 Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>1) + Macieja Ziemnickiego</td>
+            <td>+ Kazimierę Czajka, Kazimierza Gacha i&nbsp;zm.
+            z&nbsp;rodz. Czajków, i&nbsp;Gachów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>1) + Bogusława Sarzyńskiego, Annę 6&nbsp;rocz. śm.,
-            Janusza 6&nbsp;rocz. śm., Stanisława Roźmiejów, Zofię
-            i&nbsp;Mikołaja, Eugeniusza Kapustów</td>
+            <td>+ Janinę, Czesława i&nbsp;Krzysztofa Płaza</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>1) + Zenona Mądrego i&nbsp;zm. rodziców; Teresę
-            i&nbsp;Eugeniusza Paciochów, i&nbsp;zm. rodziców</td>
+            <td>+ K.Ż.R. od&nbsp;zelatorki Jadwigi Majduszko</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Helenę rocz. śm., Mariana Przyłuckich</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">17.15</td>
@@ -126,7 +128,7 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1) + Tadeusza Fijałkowskiego</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
     </tbody>
 </table>
