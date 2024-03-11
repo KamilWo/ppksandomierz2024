@@ -1,80 +1,80 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            4.03. – 10.03.2024&nbsp;r.
+            11.03. – 17.03.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 4&nbsp;marca</b></td>
-            <td><b>Święto Św.&nbsp;Kazimierza Królewicza</b></td>
+            <td><b>PONIEDZIAŁEK, 11&nbsp;marca</b></td>
+            <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Kazimierza Płazę, zm.&nbsp;z&nbsp;rodz.
-            i&nbsp;dusze w&nbsp;czyśćcu cierpiące</td>
+            <td>1. O&nbsp;łaskę żywej wiary dla dzieci
+            i&nbsp;chrześniaków</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Kazimerza Kaczmarskiego, Małgorzatę Walczyna<br>
-            2. + Kazimierza Stanisławę Winiarczyków, Tadeusza,
-            Genowefę, Stanisława Fietko</td>
+            <td>1. + zm.&nbsp;z&nbsp;rodz. Erkolani<br>
+            2. + Władysławę i&nbsp;Władysława Mrówków,
+            i&nbsp;zm.&nbsp;z&nbsp;rodz. Mrówków i&nbsp;Wodzów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 5&nbsp;marca</b></td>
+            <td><b>WTOREK, 12&nbsp;marca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Jerzego Sochę<br>
-            2. + Tadeusza Jopa<br>
-            3. + Józefa Szpaka</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Romana i&nbsp;Helenę Orlików,
-                zm.&nbsp;z&nbsp;rodz.<br>
-            2. + Józefę Bociek</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 6&nbsp;marca</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Honoratę Gajek<br>
+            <td>1. + Jacka Stolę<br>
             2. + Tadeusza Jopa</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
+            <td>1. KWC<br>
+            2. + Kazimierza 20&nbsp;rocz. śm., Agatę, Wojciecha
+            Homów</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 13&nbsp;marca</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
             <td>1. + Wojciecha Stolę<br>
-            2. + Ewę Ozdoba</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 7&nbsp;marca</b></td>
-            <td><b>I&nbsp;Czwartek Miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania<br>
             2. + Tadeusza Jopa</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Helenę i&nbsp;Józefa Wąsików, Andrzeja Wąsika<br>
-            2. + Wojciecha Stolę</td>
+            <td>1. + Andrzeja 13&nbsp;rocz. śm., Idziego
+                i&nbsp;Józefę Dudków<br>
+            2. + Janinę, Józefa, Kazimierza, Irenę Tutaków</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 8&nbsp;marca</b></td>
+            <td><b>CZWARTEK, 14&nbsp;marca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Krzysztofa Czerwca<br>
-            2. + Tadeusza Jopa</td>
+            <td>1. + Alicję Rożkowicz<br>
+            2. + Janinę Bąk-Borowską</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Grażynę Mądrą<br>
+            2. + Jóżefę Bociek</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 15&nbsp;marca</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Krystynę Dubul<br>
+            2. + Janinę Bąk-Borowską</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">17.00</td>
@@ -82,51 +82,53 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Grażynę Mądrą<br>
-            2. + Helenę i&nbsp;Piotra, zm.&nbsp;z&nbsp;rodz.
-                Grządkowskich</td>
+            <td>1. Wynagradzająca za&nbsp;grzechy aborcji
+                i&nbsp;eutanazji<br>
+            2. + Alicję Rożkowicz</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 9&nbsp;marca</b></td>
+            <td><b>SOBOTA, 16&nbsp;marca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Mariana, Stanisławę Mądrych, zm.&nbsp;z&nbsp;rodz.
-            i&nbsp;dusze w&nbsp;czyśćcu cierpiące</td>
+            <td>1. + Ewę Ozdoba</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Jadwigę i&nbsp;zm.&nbsp;z&nbsp;rodz. Danuty
-                i&nbsp;Ryszarda<br>
-            2. + Andrzeja Skoczylasa i&nbsp;o&nbsp;opiekę MB&nbsp;nad
-            rodziną</td>
+            <td>1. + Mariana Wójcika<br>
+            2. + Izabelę Hofbauer</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 10&nbsp;marca</b></td>
+            <td><b>NIEDZIELA, 17&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">IV&nbsp;Niedziela Wielkiego
+                <span style="color: red">V&nbsp;Niedziela Wielkiego
                 Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>1. O&nbsp;Boże błog. i&nbsp;opiekę MB nad Jubilatem
+            Maciejem, i&nbsp;jego rodziną w&nbsp;50&nbsp;rocz.
+            urodzin.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Zygmunta Szpernala</td>
+            <td>1. + Zygmunta Szpernala</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>Dziękczynno-błagalna z&nbsp;okazji urodzin Tomasza
-            o&nbsp;Boże błog., potrzebne łaski i&nbsp;opiekę MB</td>
+            <td>1. + Helenę Anwajler m-c po śmierci<br>
+            2. DK<br>
+            3. Kazimierza i&nbsp;Bronisławę Duda, Ryszarda
+            Czechowskiego i&nbsp;zm.&nbsp;z&nbsp;rodz. Szcześniak,
+            i&nbsp;Duda</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Stanisławę i&nbsp;Kazimierza Winiarczyków; Genowefę
-            i&nbsp;Stanisława Fietko</td>
+            <td>1. + Józefa Liśkiewicza i&nbsp;zm.&nbsp;z&nbsp;rodz.
+            Liśkiewiczów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">17.15</td>
@@ -134,8 +136,9 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>O&nbsp;doświadczenie Bożej miłości, łaskę nawrócenia
-            dla męża Piotra i&nbsp;ojca Tadeusza</td>
+            <td>1. Dziękczynno-błagalna o&nbsp;Miłosierdzie Boże,
+            Wiarę, Nadzieję, i&nbsp;Miłość, łaskę pokory, nawrócenie
+            i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
         </tr>
     </tbody>
 </table>
