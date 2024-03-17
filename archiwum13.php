@@ -19,7 +19,7 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 10.&nbsp;marca 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 17.&nbsp;marca 2024&nbsp;r.</h2>
 
                         <div class="card">
                             <div class="card-header">
