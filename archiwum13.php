@@ -19,7 +19,157 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 17.&nbsp;marca 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;marca 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    18.03. – 24.03.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 18&nbsp;marca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Mariana Wójcika</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Helenę Anwajler<br>
+                                        2. + Alicję Rożkowicz<br>
+                                        3. + Marię Barańską</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 19&nbsp;marca</b></td>
+                                    <td><b>Uroczystość św.&nbsp;Józefa, Oblubieńca NMP<br>
+                                    DZIEŃ SPOWIEDZI PARAFIALNEJ</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Józefę Hofbauer<br>
+                                    2. + Tadeusza Jopa</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Józefę Tenderendę<br>
+                                    2. + Józefę, Jana Marców, Józefę, Ryszarda, Stefana
+                                    Pietruszków, Józefę i&nbsp;Karola Klimontów<br>
+                                    3. + Wacława i&nbsp;Czesława Sajdów, Helenę Słaba,
+                                    Bonifacego Marca</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 20&nbsp;marca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;łaskę dobrej śmierci<br>
+                                    2. + Janinę Bąk – Borowską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Ewę Ozdoba<br>
+                                    2. + Juliana Bednarskiego 10&nbsp;rocz.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 21&nbsp;marca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jadwigę, Szczepana Kasprzyckich,
+                                        zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu
+                                        cierpiące<br>
+                                    2. + Janinę Bąk-Borowską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. Macieja Ziemnickiego<br>
+                                    2. + Grażynę Mądrą</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 22&nbsp;marca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jacka Stolę<br>
+                                    2. + Stanisława Czosnka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">17.00</td>
+                                    <td><strong>DROGA KRZYŻOWA</strong></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Zygmunta Szpernala<br>
+                                    2. Krystynę, Witolda Szwedów, Janinę i&nbsp;Czesława
+                                    Klimontów, zm.&nbsp;z&nbsp;rodz. Klimontów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 23&nbsp;marca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Janinę i&nbsp;Mieczysława Kędzierskich,
+                                    i&nbsp;zm. z&nbsp;rodz.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Piotra i&nbsp;Bolesława (m) Tyniec<br>
+                                    2. + Władysława Marca 8&nbsp;rocz.&nbsp;śm., Katarzynę
+                                    i&nbsp;Wincentego Król</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 24&nbsp;marca</b></td>
+                                    <td><b>
+                                        <span style="color: red">NIEDZIELA PALMOWA czyli MĘKI
+                                        PAŃSKIEJ</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Barbarę Pyszczyńską 10&nbsp;rocz.&nbsp;śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Marianna Stefaniak z&nbsp;racji urodzin</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Zofię Kołodzież i&nbsp;zm.&nbsp;siostry
+                                    z&nbsp;K.Ż.R.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Józefa Wronę i&nbsp;zm.&nbsp;z&nbsp;rodz. Wronów,
+                                    Józefa Stefańskiego i&nbsp;zm.&nbsp;z&nbsp;rodz.
+                                    Stefańskich, Stefana i&nbsp;Stanisławę Sierantów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">15.00</td>
+                                    <td><strong>DROGA KRZYŻOWA ULICAMI MIASTA</strong></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">17.15</td>
+                                    <td><strong>GORZKIE ŻALE</strong></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
@@ -162,6 +312,57 @@ include 'head.php';
                                 </tr>
                             </tbody>
                         </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>3.&nbsp;marca 2024&nbsp;r.</h3>
+                                <h3>III&nbsp;NIEDZIELA WIELKIEGO POSTU, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+                                o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału. W&nbsp;każdą
+                                niedzielę Wielkiego Postu nabożeństwo „Gorzkich Żali” z&nbsp;nauką
+                                pasyjną o&nbsp;godz.&nbsp;17.15, następnie Msza Święta. Za&nbsp;udział
+                                w&nbsp;tych nabożeństwach, można zyskać odpust zupełny pod zwykłymi
+                                warunkami.</p>
+                                <p>2. Od&nbsp;drugiego semestru tego roku szkolnego zaczynają się
+                                katechezy uzupełniające dla młodzieży pt.&nbsp;„Wierzę w&nbsp;Ciebie
+                                Boże żywy”. Katechezy odbywają się w&nbsp;parafii św.&nbsp;Józefa,
+                                najbliższa katecheza (9&nbsp;marca, tj.&nbsp;w&nbsp;sobotę
+                                o&nbsp;godz.&nbsp;11.00).</p>
+                                <p>3. Jest jeszcze kilka miejsc w&nbsp;drugim autokarze
+                                na&nbsp;pielgrzymkę do&nbsp;Włoch. Wszystkie osoby, które się zapisały
+                                na&nbsp;pielgrzymkę prosimy, aby należność w&nbsp;złotówkach
+                                uregulować do&nbsp;końca marca, a&nbsp;w&nbsp;euro do&nbsp;końca
+                                kwietnia.</p>
+                                <p>4. Trwa Kurs Przedmałżeński w&nbsp;dekanacie sandomierskim,
+                                w&nbsp;parafii św.&nbsp;Józefa w&nbsp;Sandomierzu, w&nbsp;niedzielę
+                                o&nbsp;godz.&nbsp;16.30, spotkanie w&nbsp;salce katechetycznej przy
+                                plebanii.</p>
+                                <p>5. Spotkanie dla kandydatów do&nbsp;Bierzmowania z&nbsp;klas VIII
+                                odbędzie się w&nbsp;tym tygodniu – we&nbsp;wtorek 5&nbsp;marca –
+                                po&nbsp;Mszy świętej wieczorowej w&nbsp;kościele. Prosimy, aby
+                                na&nbsp;to&nbsp;spotkanie młodzież przyszła z&nbsp;rodzicami.</p>
+                                <p>6. W&nbsp;tym tygodniu Pierwszy Czwartek Miesiąca
+                                o&nbsp;godz.&nbsp;17.30 zapraszamy na&nbsp;adorację Najświętszego
+                                Sakramentu.</p>
+                                <p>7. Wykonana została łazienka w&nbsp;kościele dla parafian. <em>Bóg
+                                zapłać</em> Panom: Andrzejowi Anwajlerowi i&nbsp;Leszkowi Czajce
+                                za&nbsp;pomoc w&nbsp;wykonaniu tego „<em>locum secretum</em>”.</p>
+                                <p>8. Do&nbsp;nabycia w&nbsp;zakrystii Baranki wielkanocne
+                                w&nbsp;cenie 8&nbsp;zł.</p>
+                                <p>9. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety na&nbsp;stoliku pod chórem.</p>
+                                <p>10. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+                                na&nbsp;potrzeby parafii. Wszystkim uczestniczącym
+                                we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 3.&nbsp;marca 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>
