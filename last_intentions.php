@@ -1,151 +1,151 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            25.03. – 31.03.2024&nbsp;r.
+            1.04. – 7.04.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 25&nbsp;marca</b></td>
-            <td><b>Wielki Poniedziałek</b></td>
+            <td><b>PONIEDZIAŁEK, 1&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Jana Radzimowskiego</td>
-        </tr>
-        <tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Ewę Ozdoba<br>
-            2. + Jana Skorupskiego rocz.&nbsp;śm.</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 26&nbsp;marca</b></td>
-            <td><b>Wielki Wtorek</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Macieja Ziemnickiego<br>
-            2. + Tadeusza Jopa</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td><b>ODWIEDZINY CHORYCH Z&nbsp;POSŁUGĄ
-            SAKRAMENTALNĄ</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Mariana Sapielaka<br>
-            2. O&nbsp;Boże Błog. dla Krystiana</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 27&nbsp;marca</b></td>
-            <td><b>Wielka Środa</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Rodziców i&nbsp;rodzeństwo, dziadków, teściów
-                i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
-            2. + Janinę Bąk-Borowską</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. O&nbsp;Boże błog., dary Ducha Świętego, opiekę MB
-                i&nbsp;potrzebne łaski dla kapłanów, którzy posługują
-                i&nbsp;posługiwali w&nbsp;naszej parafii<br>
-            2. + Irenę Borycką</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 28&nbsp;marca</b></td>
-            <td><b><span style="color: red">WIELKI CZWARTEK – MSZA
-                WIERZECZY PAŃSKIEJ<br>
-            Dzień ustanowienia Eucharystii
-            i&nbsp;Kapłaństwa</span></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td><b><span style="color: red">MSZA WIECZERZY PAŃSKIEJ</span></b><br>
-                1. Za&nbsp;kapłanów posługujących w&nbsp;naszej parafii<br>
-                2. + Agnieszkę Pietrusińską<br>
-                3. + Honoratę Gajek</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">Do&nbsp;22.00</td>
-            <td><b>ADORACJA PANA JEZUSA W&nbsp;CIEMNICY</b></td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 29&nbsp;marca</b></td>
-            <td><b><span style="color: red">WIELKI PIĄTEK MĘKI
-            PAŃSKIEJ</span></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">Od&nbsp;8.00</td>
-            <td><b>ADORACJA PANA JEZUSA W&nbsp;CIEMNICY</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">17.15</td>
-            <td><b>DROGA KRZYŻOWA</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td><b><span style="color: red">LITURGIA WIELKIEGO
-            PIĄTKU</span></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">Do&nbsp;22.00</td>
-            <td><b>ADORACJA PANA JEZUSA W&nbsp;GROBIE PAŃSKIM</b></td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>SOBOTA, 30&nbsp;marca</b></td>
-            <td><b><span style="color: red">WIELKA SOBOTA – WIGILIA
-            PASCHALNA</span></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">Od&nbsp;8.00</td>
-            <td><b>ADORACJA PANA JEZUSA W&nbsp;GROBIE PAŃSKIM</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00 - 13.00</td>
-            <td><b>POŚWIĘCENIE POKARMÓW</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">19.00</td>
-            <td><b><span style="color: red">WIGILIA PASCHALNA:</span></b><br>
-                1. + Bogusława Żyłę<br>
-                2. + Józefę, Jana Ochmeraków, Agnieszkę Terlecką<br>
-                + Bogusławę, Józefa Cukrowskich</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 31&nbsp;marca</b></td>
-            <td><b>
-                <span style="color: red">NIEDZIELA WIELKANOCY<br>
-                ZMARTWYCHWSTANIA PAŃSKIEGO</span>
-            </b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.00</td>
-            <td>Za&nbsp;parafian</td>
+            <td class="center">7.30</td>
+            <td>1. + Stefanię, Franciszka, Kowalskich, Marię Woś,
+                Wiesławę Wałcerz, Celinę, Jana i&nbsp;Jarosława
+                Gucałów<br>
+            2. + Mieczysława rocz.&nbsp;śm., Barbarę Bryłów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
-            Roźmiejów, Zofię, Mikołaja, Eugeniusza Kapustów</td>
+            <td>+ Reginę i&nbsp;Edwarda Stępniów</td>
         </tr>
+        <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Stefanię, Konstantego, Juliana Chuchnowskich</td>
+            <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+            Krystynę, Mariana, Janinę</td>
         </tr>
+        <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Stanisława, Janinę Zimnickich w&nbsp;rocz.&nbsp;śm.</td>
+            <td>+ Stefana Orłowskiego 3&nbsp;rocz. śm., i&nbsp;zm.
+            z&nbsp;rodz. Orłowskich i&nbsp;Domaradzkich</td>
+        </tr>
+
+        <tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center"></td>
+            <td><b>W&nbsp;dniu dzisiejszym nie odprawiana jest
+            Msza&nbsp;Św. o&nbsp;godz.&nbsp;18.00.</b></td>
+        </tr>
+
+        <tr class="actualnosci_day">
+            <td><b>WTOREK, 2&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Jacka Stolę</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Zofię, Wincentego Kołodziejów, Juliannę, Walentego
-            Bulirów, Marię, Kazimierza Włochów, Stanisława, Stanisławę
-            Wosiów, Irenę i&nbsp;Tadeusza Kołaczów</td>
+            <td>1. + Halinę, Józefa Bartłomiejczyków, Piotra,
+                Mariannę, Leszka Krawczyków, Sylwestra Wojnę<br>
+            2. + Jacentego Koguta</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 3&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Zofię Wójcik<br>
+            2. + Stanisława Czosnka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Grażynę Mądrą<br>
+            2. + Franciszka Muchę, Władysława, Władysławę Grudniów,
+                Kazimierę Bryłę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 4&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy<br>
+            I&nbsp;Czwartek Miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                kapłańskie<br>
+            2. + Jerzego Polek</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Macieja Ziemnickiego<br>
+            2. + Jacentego Koguta</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 5&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy<br>
+            I&nbsp;Piątek Miesiąca</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Szczepana, Emilię, Teodozję, Zdzisława Dudków,
+                zm.&nbsp;z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące
+            2. + Teodozję i&nbsp;Wojciecha Rybarczyków</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Jacka Kaśniewskiego 5&nbsp;rocz. śm., Zdzisława
+                Ziębę
+            2. + Józefę Bociek</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 6&nbsp;kwietnia</b></td>
+            <td><b>Oktawa Wielkanocy<br>
+            I&nbsp;Sobota Miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Zygmunta Szpernala</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. LM<br>
+            2. + Ewę Ozdobę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 7&nbsp;kwietnia</b></td>
+            <td><b>
+                <span style="color: red">II&nbsp;Niedziela Wielkanocy
+                czyli Miłosierdzia Bożego</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>+ Henryka Kordosa, Stanisława Pliżgę</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>Za&nbsp;parafian</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>K.Ż.R. od&nbsp;Teresy Borkowskiej</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>+ Mieczysława Adamczyka 2&nbsp;rocz. śm., Szymona
+            i&nbsp;Mariannę Woźniak</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>+ Krzysztofa Deryło, Zdzisława i&nbsp;Aleksandrę
+            Gajków</td>
         </tr>
     </tbody>
 </table>
