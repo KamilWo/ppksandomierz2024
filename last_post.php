@@ -13,67 +13,55 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>24.&nbsp;marca 2024&nbsp;r.</h3>
-        <h3>Niedziela Palmowa, Rok&nbsp;B</h3>
+        <h3>7.&nbsp;kwietnia 2024&nbsp;r.</h3>
+        <h3>II Niedziela Wielkanocna – Niedziela Miłosierdzia Bożego, Rok&nbsp;B</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;Wielki Wtorek, tj.&nbsp;26&nbsp;marca br.
-        od&nbsp;godz.&nbsp;9.00 kapłani odwiedzą chorych z&nbsp;posługą
-        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii, tych chorych,
-        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach św.</p>
-        <p>2. Próba dla kandydatów do&nbsp;Bierzmowania z&nbsp;klas VIII
-        we&nbsp;wtorek –&nbsp;<b>26 marca</b>&nbsp;– po&nbsp;Mszy Świętej
-        wieczorowej w&nbsp;kościele.</p>
-        <p>3. Zapraszamy na&nbsp;pielgrzymkę do&nbsp;Medjugorie, szczegóły
-        na&nbsp;plakacie w&nbsp;gablotce i&nbsp;u&nbsp;ks.&nbsp;Krystiana.</p>
-        <p>4. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
-        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
-        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
-        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
-        <p>5. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
-        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
-        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.15 Droga Krzyżowa,
-        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
-        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
-        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
-        adoracja do&nbsp;godziny 22.00. Ofiary z&nbsp;Wielkiego Piątku
-        na&nbsp;Grób Pański w&nbsp;Jerozolimie.</p>
-        <p>6. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
-        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
-        Poświęcenie pokarmów w&nbsp;kościele od&nbsp;godz.&nbsp;9.00
-        do&nbsp;13.00 (co&nbsp;15&nbsp;minut). O&nbsp;godzinie 19.00
-        rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia ognia.
-        Przynosimy świece.</p>
-        <p>7. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
-        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
-        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
-        <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>1. Od&nbsp;dziś do&nbsp;soboty trwa Tydzień Miłosierdzia.
+        W&nbsp;tym czasie szczególnie módlmy się „Koronką do&nbsp;Miłosierdzia
+        Bożego”. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Caritas.</p>
+        <p>2. Jutro obchodzimy uroczystość Zwiastowania Pańskiego,
+        przeniesioną z&nbsp;25&nbsp;marca. Obchodzona jest ona jako Dzień
+        Świętości Życia. W&nbsp;tym dniu Kościół zachęca do&nbsp;podjęcia
+        adopcji Dziecka Poczętego.</p>
+        <p>3. 1&nbsp;czerwca w&nbsp;naszej Parafii planowane jest
+        II&nbsp;Diecezjalne Spotkanie Apostolatu Margaretka. Wszystkich,
+        którzy chcieliby pomóc w&nbsp;organizacji tego wydarzania zapraszamy
+        na&nbsp;spotkanie jutro, w&nbsp;poniedziałek po&nbsp;Mszy Świętej
+        Wieczorowej w&nbsp;salkach na&nbsp;plebanii.</p>
+        <p>4. W&nbsp;ostatnią sobotę miesiąca, 27&nbsp;kwietnia
+        o&nbsp;godzinie 18.00 w&nbsp;naszej Parafii będziemy przeżywali
+        kolejny Wieczór Uwielbienia. Tym razem naszej modlitwę będzie
+        towarzyszył znany zespół ewangelizacyjny „Mocni w&nbsp;Duchu”.
+        Wychodząc z&nbsp;kościoła można pobrać ulotkę dotyczącą tego
+        wydarzenia. Zachęcamy do&nbsp;wzięcia ulotek również dla swoich
+        sąsiadów, przyjaciół i&nbsp;znajomych w&nbsp;celu zaproszenia ich
+        na&nbsp;ten Wieczór Uwielbienia.</p>
+        <p>5. Serdecznie zapraszamy wszystkich zainteresowanych
+        na&nbsp;wykłady otwarte z&nbsp;filozofii. Wykład odbędzie się
+        13&nbsp;kwietnia br. w&nbsp;sobotę, o&nbsp;godz.&nbsp;16.00
+        w&nbsp;Domu bł.&nbsp;Antoniego Rewery Sandomierz,
+        pl.&nbsp;Św.&nbsp;Wojciecha 2 (prowadzący ks.&nbsp;Piotr Żurawski)</p>
+        <p>6. We&nbsp;wtorek 9&nbsp;kwietnia br. w&nbsp;kościele
+        św.&nbsp;Józefa o&nbsp;godz.&nbsp;19.00 kolejna Msza&nbsp;św.
+        w&nbsp;intencji kobiet, a&nbsp;po&nbsp;niej w&nbsp;salce parafialnej
+        konferencja pt. „Sztuka stawiania Granic”. Wygłosi Małgorzata
+        Dąbrowska - trener biznesu, trener mentalny, mówca motywacyjny.</p>
+        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>9. <b>Dziękujemy parafianom z&nbsp;Milczan za&nbsp;wykonanie palmy,
-        która zdobi ołtarz. <em>Bóg zapłać</em>.</b></p>
-        <p>10. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;naszym
-        kościele parafialnym, złożyły: Pani Agnieszka Pliżga – 200&nbsp;zł,
-        Grażyna Wnuk z&nbsp;Milczan – 300&nbsp;zł. i&nbsp;anonimowi
-        ofiarodawcy 330&nbsp;zł. <em>Bóg zapłać</em> wszystkim.</p>
-        <p>11. Kancelaria parafialna czynna do&nbsp;Wielkiej Środy włącznie.
-        We&nbsp;wtorek spowiedź w&nbsp;katedrze od&nbsp;godz.&nbsp;15.30
-        do&nbsp;17.00. W&nbsp;naszym kościele od&nbsp;17.30 do&nbsp;18.00,
-        od&nbsp;poniedziałku do&nbsp;Wielkiej Środy włącznie.</p>
-        <p>12. Spotkanie Liturgicznej Służby Ołtarza w&nbsp;celu omówienia
-        Liturgii Triduum Paschalnego odbędzie się w&nbsp;piątek
-        i&nbsp;w&nbsp;sobotę o&nbsp;godz.&nbsp;10.00 w&nbsp;kościele.</p>
-        <p>13. Zwolniło się jedno miejsce w&nbsp;pierwszym autokarze
-        na&nbsp;pielgrzymkę do&nbsp;Włoch (22-29&nbsp;czerwca br.), jest
-        jeszcze kilka miejsc wolnych w&nbsp;drugim autokarze. Osoby chętne
-        na&nbsp;wyjazd prosimy o&nbsp;kontakt z&nbsp;ks.&nbsp;Krystianem
-        Musiałem. Osoby, które zapisały się na&nbsp;pielgrzymkę prosimy
-        o&nbsp;uregulowanie należności w&nbsp;złotówkach do&nbsp;końca
-        marca.</p>
-        <p>14. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
-        za&nbsp;składane ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy
-        błogosławionej Niedzieli.</p>
+        <p>8. Kandydaci do&nbsp;bierzmowania, którzy jeszcze nie odbyli
+        spotkania w&nbsp;kancelarii proszeni są o&nbsp;przybycie – jutro –
+        po&nbsp;Mszy Świętej wieczorowej z&nbsp;rodzicem. Prosimy, aby
+        na&nbsp;spotkanie zabrać ze&nbsp;sobą indeks.</p>
+        <p>9. Wszystkie osoby, które zapisały się na&nbsp;pielgrzymkę
+        do&nbsp;Włoch prosimy o&nbsp;uregulowanie II&nbsp;raty
+        za&nbsp;wyjazd.</p>
+        <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        ofiary na&nbsp;remonty parafii. Wszystkim życzymy błogosławionej
+        Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 24.&nbsp;marca 2024&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 7.&nbsp;kwietnia 2024&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
