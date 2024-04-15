@@ -19,7 +19,219 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 31.&nbsp;marca 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 7.&nbsp;kwietnia 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>7.&nbsp;kwietnia 2024&nbsp;r.</h3>
+                                <h3>II Niedziela Wielkanocna – Niedziela Miłosierdzia Bożego, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Od&nbsp;dziś do&nbsp;soboty trwa Tydzień Miłosierdzia.
+                                W&nbsp;tym czasie szczególnie módlmy się „Koronką do&nbsp;Miłosierdzia
+                                Bożego”. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+                                na&nbsp;Caritas.</p>
+                                <p>2. Jutro obchodzimy uroczystość Zwiastowania Pańskiego,
+                                przeniesioną z&nbsp;25&nbsp;marca. Obchodzona jest ona jako Dzień
+                                Świętości Życia. W&nbsp;tym dniu Kościół zachęca do&nbsp;podjęcia
+                                adopcji Dziecka Poczętego.</p>
+                                <p>3. 1&nbsp;czerwca w&nbsp;naszej Parafii planowane jest
+                                II&nbsp;Diecezjalne Spotkanie Apostolatu Margaretka. Wszystkich,
+                                którzy chcieliby pomóc w&nbsp;organizacji tego wydarzania zapraszamy
+                                na&nbsp;spotkanie jutro, w&nbsp;poniedziałek po&nbsp;Mszy Świętej
+                                Wieczorowej w&nbsp;salkach na&nbsp;plebanii.</p>
+                                <p>4. W&nbsp;ostatnią sobotę miesiąca, 27&nbsp;kwietnia
+                                o&nbsp;godzinie 18.00 w&nbsp;naszej Parafii będziemy przeżywali
+                                kolejny Wieczór Uwielbienia. Tym razem naszej modlitwę będzie
+                                towarzyszył znany zespół ewangelizacyjny „Mocni w&nbsp;Duchu”.
+                                Wychodząc z&nbsp;kościoła można pobrać ulotkę dotyczącą tego
+                                wydarzenia. Zachęcamy do&nbsp;wzięcia ulotek również dla swoich
+                                sąsiadów, przyjaciół i&nbsp;znajomych w&nbsp;celu zaproszenia ich
+                                na&nbsp;ten Wieczór Uwielbienia.</p>
+                                <p>5. Serdecznie zapraszamy wszystkich zainteresowanych
+                                na&nbsp;wykłady otwarte z&nbsp;filozofii. Wykład odbędzie się
+                                13&nbsp;kwietnia br. w&nbsp;sobotę, o&nbsp;godz.&nbsp;16.00
+                                w&nbsp;Domu bł.&nbsp;Antoniego Rewery Sandomierz,
+                                pl.&nbsp;Św.&nbsp;Wojciecha 2 (prowadzący ks.&nbsp;Piotr Żurawski)</p>
+                                <p>6. We&nbsp;wtorek 9&nbsp;kwietnia br. w&nbsp;kościele
+                                św.&nbsp;Józefa o&nbsp;godz.&nbsp;19.00 kolejna Msza&nbsp;św.
+                                w&nbsp;intencji kobiet, a&nbsp;po&nbsp;niej w&nbsp;salce parafialnej
+                                konferencja pt. „Sztuka stawiania Granic”. Wygłosi Małgorzata
+                                Dąbrowska - trener biznesu, trener mentalny, mówca motywacyjny.</p>
+                                <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+                                <p>8. Kandydaci do&nbsp;bierzmowania, którzy jeszcze nie odbyli
+                                spotkania w&nbsp;kancelarii proszeni są o&nbsp;przybycie – jutro –
+                                po&nbsp;Mszy Świętej wieczorowej z&nbsp;rodzicem. Prosimy, aby
+                                na&nbsp;spotkanie zabrać ze&nbsp;sobą indeks.</p>
+                                <p>9. Wszystkie osoby, które zapisały się na&nbsp;pielgrzymkę
+                                do&nbsp;Włoch prosimy o&nbsp;uregulowanie II&nbsp;raty
+                                za&nbsp;wyjazd.</p>
+                                <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;remonty parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 7.&nbsp;kwietnia 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    1.04. – 7.04.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 1&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>1. + Stefanię, Franciszka, Kowalskich, Marię Woś,
+                                        Wiesławę Wałcerz, Celinę, Jana i&nbsp;Jarosława
+                                        Gucałów<br>
+                                    2. + Mieczysława rocz.&nbsp;śm., Barbarę Bryłów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Reginę i&nbsp;Edwarda Stępniów</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę, Mariana, Janinę</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Stefana Orłowskiego 3&nbsp;rocz. śm., i&nbsp;zm.
+                                    z&nbsp;rodz. Orłowskich i&nbsp;Domaradzkich</td>
+                                </tr>
+
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center"></td>
+                                    <td><b>W&nbsp;dniu dzisiejszym nie odprawiana jest
+                                    Msza&nbsp;Św. o&nbsp;godz.&nbsp;18.00.</b></td>
+                                </tr>
+
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 2&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Jacka Stolę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Halinę, Józefa Bartłomiejczyków, Piotra,
+                                        Mariannę, Leszka Krawczyków, Sylwestra Wojnę<br>
+                                    2. + Jacentego Koguta</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 3&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zofię Wójcik<br>
+                                    2. + Stanisława Czosnka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Grażynę Mądrą<br>
+                                    2. + Franciszka Muchę, Władysława, Władysławę Grudniów,
+                                        Kazimierę Bryłę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 4&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy<br>
+                                    I&nbsp;Czwartek Miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                                        kapłańskie<br>
+                                    2. + Jerzego Polek</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Macieja Ziemnickiego<br>
+                                    2. + Jacentego Koguta</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 5&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy<br>
+                                    I&nbsp;Piątek Miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Szczepana, Emilię, Teodozję, Zdzisława Dudków,
+                                        zm.&nbsp;z&nbsp;rodz., dusze w&nbsp;czyśćcu cierpiące<br>
+                                    2. + Teodozję i&nbsp;Wojciecha Rybarczyków</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jacka Kaśniewskiego 5&nbsp;rocz. śm., Zdzisława
+                                        Ziębę<br>
+                                    2. + Józefę Bociek</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 6&nbsp;kwietnia</b></td>
+                                    <td><b>Oktawa Wielkanocy<br>
+                                    I&nbsp;Sobota Miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Zygmunta Szpernala</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. LM<br>
+                                    2. + Ewę Ozdobę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 7&nbsp;kwietnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">II&nbsp;Niedziela Wielkanocy
+                                        czyli Miłosierdzia Bożego</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Henryka Kordosa, Stanisława Pliżgę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>K.Ż.R. od&nbsp;Teresy Borkowskiej</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Mieczysława Adamczyka 2&nbsp;rocz. śm., Szymona
+                                    i&nbsp;Mariannę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Krzysztofa Deryło, Zdzisława i&nbsp;Aleksandrę
+                                    Gajków</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">

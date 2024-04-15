@@ -13,55 +13,52 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>7.&nbsp;kwietnia 2024&nbsp;r.</h3>
-        <h3>II Niedziela Wielkanocna – Niedziela Miłosierdzia Bożego, Rok&nbsp;B</h3>
+        <h3>14.&nbsp;kwietnia 2024&nbsp;r.</h3>
+        <h3>III Niedziela Wielkanocna, Rok&nbsp;B</h3>
     </div>
     <div class="col">
-        <p>1. Od&nbsp;dziś do&nbsp;soboty trwa Tydzień Miłosierdzia.
-        W&nbsp;tym czasie szczególnie módlmy się „Koronką do&nbsp;Miłosierdzia
-        Bożego”. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
-        na&nbsp;Caritas.</p>
-        <p>2. Jutro obchodzimy uroczystość Zwiastowania Pańskiego,
-        przeniesioną z&nbsp;25&nbsp;marca. Obchodzona jest ona jako Dzień
-        Świętości Życia. W&nbsp;tym dniu Kościół zachęca do&nbsp;podjęcia
-        adopcji Dziecka Poczętego.</p>
-        <p>3. 1&nbsp;czerwca w&nbsp;naszej Parafii planowane jest
-        II&nbsp;Diecezjalne Spotkanie Apostolatu Margaretka. Wszystkich,
-        którzy chcieliby pomóc w&nbsp;organizacji tego wydarzania zapraszamy
-        na&nbsp;spotkanie jutro, w&nbsp;poniedziałek po&nbsp;Mszy Świętej
-        Wieczorowej w&nbsp;salkach na&nbsp;plebanii.</p>
-        <p>4. W&nbsp;ostatnią sobotę miesiąca, 27&nbsp;kwietnia
-        o&nbsp;godzinie 18.00 w&nbsp;naszej Parafii będziemy przeżywali
-        kolejny Wieczór Uwielbienia. Tym razem naszej modlitwę będzie
-        towarzyszył znany zespół ewangelizacyjny „Mocni w&nbsp;Duchu”.
-        Wychodząc z&nbsp;kościoła można pobrać ulotkę dotyczącą tego
-        wydarzenia. Zachęcamy do&nbsp;wzięcia ulotek również dla swoich
-        sąsiadów, przyjaciół i&nbsp;znajomych w&nbsp;celu zaproszenia ich
-        na&nbsp;ten Wieczór Uwielbienia.</p>
-        <p>5. Serdecznie zapraszamy wszystkich zainteresowanych
-        na&nbsp;wykłady otwarte z&nbsp;filozofii. Wykład odbędzie się
-        13&nbsp;kwietnia br. w&nbsp;sobotę, o&nbsp;godz.&nbsp;16.00
-        w&nbsp;Domu bł.&nbsp;Antoniego Rewery Sandomierz,
-        pl.&nbsp;Św.&nbsp;Wojciecha 2 (prowadzący ks.&nbsp;Piotr Żurawski)</p>
-        <p>6. We&nbsp;wtorek 9&nbsp;kwietnia br. w&nbsp;kościele
-        św.&nbsp;Józefa o&nbsp;godz.&nbsp;19.00 kolejna Msza&nbsp;św.
-        w&nbsp;intencji kobiet, a&nbsp;po&nbsp;niej w&nbsp;salce parafialnej
-        konferencja pt. „Sztuka stawiania Granic”. Wygłosi Małgorzata
-        Dąbrowska - trener biznesu, trener mentalny, mówca motywacyjny.</p>
-        <p>7. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>1. Dziękujemy parafianom za&nbsp;pracę przy demontażu dekoracji
+        ciemnicy i&nbsp;grobu Pańskiego w&nbsp;naszym kościele parafialnym.
+        Wszystkim serdeczne <em>Bóg zapłać</em>.</p>
+        <p>2. Rekolekcje o&nbsp;Bożym Miłosierdziu, które odbędą się
+        w&nbsp;dniach 19 – 21.04.2024&nbsp;r. Rekolekcje poprowadzi Siostra
+        Anna Maria Trzcińska ze&nbsp;Zgromadzenia Sióstr Matki Bożej
+        Miłosierdzia w&nbsp;Łagiewnikach. Więcej informacji na&nbsp;plakacie
+        w&nbsp;gablocie.</p>
+        <p>3. Przed nami XVI&nbsp;Ogólnopolski Tydzień Biblijny
+        (14-20&nbsp;kwietnia 2024&nbsp;r.). W&nbsp;tym roku będziemy
+        przeżywać go&nbsp;pod hasłem: „Powołani do&nbsp;Wspólnoty – KOMUNII
+        z&nbsp;Bogiem i&nbsp;bliźnimi w&nbsp;Kościele”. Niedziela,
+        14&nbsp;kwietnia będzie <strong>Ósmym Narodowym Czytaniem Pisma
+        Świętego</strong>. (proponujemy odczytanie Dziejów Apostolskich)</p>
+        <p>4. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
+        na&nbsp;Caritas na zakończenie Tygodnia Miłosierdzia.</p>
+        <p>5. Zapraszamy na&nbsp;kolejne spotkanie Akademii Biblijnej
+        w&nbsp;Sandomierzu. Tematem tego spotkania będzie: <strong>Mesjasz
+        – zapowiadany przez proroków i&nbsp;oczekiwany przez Żydów</strong>.
+        Spotkanie będzie we&nbsp;wtorek, 16&nbsp;kwietnia
+        o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium
+        Duchownego.</p>
+        <p>6. Spotkanie rodziców z&nbsp;dziećmi przygotowującymi się
+        do&nbsp;I&nbsp;Komunii Świętej odbędzie się w&nbsp;następną niedzielę
+        21&nbsp;kwietnia o&nbsp;godzinie 12.30.</p>
+        <p>7. Próby dla młodzieży z&nbsp;klas VIII, która przystępuje
+        w&nbsp;tym roku do&nbsp;Sakramentu Bierzmowania odbędą się
+        w&nbsp;dn.&nbsp;23, 24 i&nbsp;25&nbsp;kwietnia (wtorek-środa-czwartek)
+        po&nbsp;Mszy Świętej wieczorowej w&nbsp;kościele. Obecność
+        obowiązkowa.</p>
+        <p>8. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>8. Kandydaci do&nbsp;bierzmowania, którzy jeszcze nie odbyli
-        spotkania w&nbsp;kancelarii proszeni są o&nbsp;przybycie – jutro –
-        po&nbsp;Mszy Świętej wieczorowej z&nbsp;rodzicem. Prosimy, aby
-        na&nbsp;spotkanie zabrać ze&nbsp;sobą indeks.</p>
-        <p>9. Wszystkie osoby, które zapisały się na&nbsp;pielgrzymkę
-        do&nbsp;Włoch prosimy o&nbsp;uregulowanie II&nbsp;raty
-        za&nbsp;wyjazd.</p>
+        <p>9. W&nbsp;dniach od&nbsp;20 do&nbsp;27 kwietnia w&nbsp;naszej
+        diecezji odbędzie się peregrynacja relikwii bł.&nbsp;Rodziny Ulmów.
+        Szczegółowe informacje znajdują się na&nbsp;plakacie
+        w&nbsp;parafialnej gablocie. Zapraszamy parafian
+        na&nbsp;to&nbsp;wydarzenie.</p>
         <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
         ofiary na&nbsp;remonty parafii. Wszystkim życzymy błogosławionej
         Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 7.&nbsp;kwietnia 2024&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 14.&nbsp;kwietnia 2024&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
