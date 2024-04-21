@@ -1,122 +1,126 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            15.04. – 21.04.2024&nbsp;r.
+            22.04. – 28.04.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 15&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Zofię Wójcik</td>
-        </tr>
-        <tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.0</td>
-            <td>1. Dziękczynna z&nbsp;racji 23&nbsp;rocz. ślubu Agaty
-                i&nbsp;Daniela z&nbsp;prośbą o&nbsp;Boże błog.
-                i&nbsp;opiekę MB<br>
-            2. + Elżbietę, Tadeusza i&nbsp;Kazimierza Sochów</td>
-        </tr>
-
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 16&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Irenę Borycką</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Ewę Ozdobę<br>
-            2. + Krystynę Wziątek 3&nbsp;rocz.&nbsp;śm.</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 17&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Irenę Borycką</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Bogdana Płodowskiego<br>
-            2. + Genowefę, Jarosława w&nbsp;rocz., śm., Paulinę,
-            Tadeusza, Mieczysława Ramusów, Stefana Burka</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 18&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Jacentego Koguta<br>
-            2. Arkadiusza, Stanisława, Mariannę, Mieczysława</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Ewę Ozdobę<br>
-            2. + Jana 9&nbsp;rocz.&nbsp;śm. i&nbsp;jego rodziców</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 19&nbsp;kwietnia</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Zofię Wójcik</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Grażynę Mądrą<br>
-            2. + Danutę Sułowską, Alinę Szaraniec</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>SOBOTA, 20&nbsp;kwietnia</b></td>
+            <td><b>PONIEDZIAŁEK, 22&nbsp;kwietnia</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>1. + Zygmunta Szpernala</td>
         </tr>
+        <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
-            2. + Ewę Ozdobę</td>
+            <td>1. + Helenę 19&nbsp;rocz. śm., Stanisława Boduła<br>
+            2. + Józefę Bociek</td>
+        </tr>
+
+        <tr class="actualnosci_day">
+            <td><b>WTOREK, 23&nbsp;kwietnia</b></td>
+            <td><b>Uroczystość św.&nbsp;Wojciecha Biskupa
+            i&nbsp;Męczennika</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Jacentego Koguta<br>
+            2. + Jerzego Polka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. Dziękczynno-błagalna z&nbsp;okazji rocznicy ślubu
+                o&nbsp;Boże Błogosławieństwo.<br>
+            2. + Jerzego Sochę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 24&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Elżbietę, Tadeusza, Kazimierza Sochów<br>
+            2. + Jerzego Polka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Dorotę Zuba<br>
+            2. + Elżbietę Stefanek 24&nbsp;rocz. śm., Sebastiana
+            Stefanka 27&nbsp;rocz. śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 25&nbsp;kwietnia</b></td>
+            <td><b>Święto św.&nbsp;Marka, Ewangelisty</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Ewę Ozdoba<br>
+            2. + Stanisława Czosnka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Jana Makowskiego, Jana, Klarę, Ryszarda
+                Chrząstowskich<br>
+            2. + Andrzeja Margula</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 26&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Irenę Borycką<br>
+            2. + Jerzego Polka</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Zofię Kołodziej<br>
+            2. + Antoninę, Władysława i&nbsp;zm. z&nbsp;rodz.
+            Materkowskich</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 27&nbsp;kwietnia</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Marię i&nbsp;Czesława Witek, Annę rocz. śm.</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Agnieszkę Pietrusińską<br>
+            2. + Stanisława rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
             <td><b>NIEDZIELA, 21&nbsp;kwietnia</b></td>
             <td><b>
-                <span style="color: red">IV&nbsp;Niedziela Wielkanocna,
-                Niedziela Dobrego Pasterza</span>
+                <span style="color: red">V&nbsp;Niedziela Wielkanocna</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Mariannę Pyszczyńską 5&nbsp;rocz. śm.</td>
+            <td>+ Marainnę Chorąży w&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Macieja Ziemnickiego</td>
+            <td>+ Zofię Krasudę 20&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>DK</td>
+            <td>+ Henrykę, Stanisława, Mieczysława Bieńków</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Tadeusza Iwańskiego 15&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Piotra Wnuka</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
     </tbody>
 </table>

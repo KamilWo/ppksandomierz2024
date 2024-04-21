@@ -13,52 +13,55 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>14.&nbsp;kwietnia 2024&nbsp;r.</h3>
-        <h3>III Niedziela Wielkanocna, Rok&nbsp;B</h3>
+        <h3>21.&nbsp;kwietnia 2024&nbsp;r.</h3>
+        <h3>IV Niedziela Wielkanocna, Rok&nbsp;B</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy parafianom za&nbsp;pracę przy demontażu dekoracji
-        ciemnicy i&nbsp;grobu Pańskiego w&nbsp;naszym kościele parafialnym.
-        Wszystkim serdeczne <em>Bóg zapłać</em>.</p>
-        <p>2. Rekolekcje o&nbsp;Bożym Miłosierdziu, które odbędą się
-        w&nbsp;dniach 19 – 21.04.2024&nbsp;r. Rekolekcje poprowadzi Siostra
-        Anna Maria Trzcińska ze&nbsp;Zgromadzenia Sióstr Matki Bożej
-        Miłosierdzia w&nbsp;Łagiewnikach. Więcej informacji na&nbsp;plakacie
-        w&nbsp;gablocie.</p>
-        <p>3. Przed nami XVI&nbsp;Ogólnopolski Tydzień Biblijny
-        (14-20&nbsp;kwietnia 2024&nbsp;r.). W&nbsp;tym roku będziemy
-        przeżywać go&nbsp;pod hasłem: „Powołani do&nbsp;Wspólnoty – KOMUNII
-        z&nbsp;Bogiem i&nbsp;bliźnimi w&nbsp;Kościele”. Niedziela,
-        14&nbsp;kwietnia będzie <strong>Ósmym Narodowym Czytaniem Pisma
-        Świętego</strong>. (proponujemy odczytanie Dziejów Apostolskich)</p>
-        <p>4. Dziś po&nbsp;Mszach świętych zbiórka do&nbsp;puszek
-        na&nbsp;Caritas na zakończenie Tygodnia Miłosierdzia.</p>
-        <p>5. Zapraszamy na&nbsp;kolejne spotkanie Akademii Biblijnej
-        w&nbsp;Sandomierzu. Tematem tego spotkania będzie: <strong>Mesjasz
-        – zapowiadany przez proroków i&nbsp;oczekiwany przez Żydów</strong>.
-        Spotkanie będzie we&nbsp;wtorek, 16&nbsp;kwietnia
-        o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium
-        Duchownego.</p>
-        <p>6. Spotkanie rodziców z&nbsp;dziećmi przygotowującymi się
-        do&nbsp;I&nbsp;Komunii Świętej odbędzie się w&nbsp;następną niedzielę
-        21&nbsp;kwietnia o&nbsp;godzinie 12.30.</p>
-        <p>7. Próby dla młodzieży z&nbsp;klas VIII, która przystępuje
+        <p>1. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza,
+        która rozpoczyna Tydzień Modlitw o&nbsp;Powołania Kapłańskie, Zakonne
+        i&nbsp;Misyjne. W&nbsp;naszej osobistej modlitwie powierzajmy Bogu
+        te&nbsp;sprawy Kościoła.</p>
+        <p>2. We&nbsp;wtorek Uroczystość św.&nbsp;Wojciecha – patrona
+        Polski.</p>
+        <p>3. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+        raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+        raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+        świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
+        w&nbsp;jedności z&nbsp;Panem Bogiem. SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED
+        MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 –
+        17.50.</p>
+        <p>4. Próby dla młodzieży z&nbsp;klas VIII, która przystępuje
         w&nbsp;tym roku do&nbsp;Sakramentu Bierzmowania odbędą się
         w&nbsp;dn.&nbsp;23, 24 i&nbsp;25&nbsp;kwietnia (wtorek-środa-czwartek)
         po&nbsp;Mszy Świętej wieczorowej w&nbsp;kościele. Obecność
         obowiązkowa.</p>
-        <p>8. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>9. W&nbsp;dniach od&nbsp;20 do&nbsp;27 kwietnia w&nbsp;naszej
-        diecezji odbędzie się peregrynacja relikwii bł.&nbsp;Rodziny Ulmów.
-        Szczegółowe informacje znajdują się na&nbsp;plakacie
-        w&nbsp;parafialnej gablocie. Zapraszamy parafian
-        na&nbsp;to&nbsp;wydarzenie.</p>
-        <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
-        ofiary na&nbsp;remonty parafii. Wszystkim życzymy błogosławionej
-        Niedzieli.</p>
+        <p>6. W&nbsp;najbliższą sobotę, 27&nbsp;kwietnia o&nbsp;godzinie 18.00
+        w&nbsp;naszej Parafii będziemy przeżywali kolejny Wieczór Uwielbienia.
+        Tym razem naszej modlitwie będzie towarzyszył znany zespół
+        ewangelizacyjny „Mocni w&nbsp;Duchu”.</p>
+        <p>7. <strong>Plan nawiedzenia relikwii Błogosławionej Rodziny Ulmów
+        w&nbsp;Katedrze Sandomierskiej: 23.04.2024&nbsp;r. (wtorek).</strong></p>
+        <p>16.30 - wprowadzenie relikwii i&nbsp;różaniec w&nbsp;intencji
+        małżeństw i&nbsp;rodzin prowadzony przez wspólnotę Domowego
+        Kościoła.</p>
+        <p>17.00 - Konferencja - "Biblia w&nbsp;rodzinie Ulmów" –
+        Ks.&nbsp;dr&nbsp;Michał Powęska.</p>
+        <p>17.30 - Msza święta w&nbsp;intencji małżeństw i&nbsp;rodzin.
+        Po&nbsp;Mszy adoracja relikwii i&nbsp;modlitwa indywidualna.</p>
+        <p>19.15 - 20.15 - czuwanie modlitewne prowadzone przez Legion
+        Maryi.</p>
+        <p>20.15 - 21.00 - czuwanie modlitewne z&nbsp;Rodzinami prowadzone
+        przez młodzież ze&nbsp;Szkoły Katolickiej im.&nbsp;Św.&nbsp;Jadwigi
+        Królowej w&nbsp;Sandomierzu zakończone Apelem Jasnogórskim.</p>
+        <p>W&nbsp;czasie peregrynacji będzie można nabyć publikacje
+        na&nbsp;temat Błogosławionej rodziny Ulmów.</p>
+        <p>8. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        ofiary na&nbsp;potrzeby parafii, za&nbsp;wszelką pomoc. Wszystkim
+        życzymy błogosławionej Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 14.&nbsp;kwietnia 2024&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 21.&nbsp;kwietnia 2024&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
