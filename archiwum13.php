@@ -19,7 +19,194 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 21.&nbsp;kwietnia 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 28.&nbsp;kwietnia 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    22.04. – 28.04.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 22&nbsp;kwietnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Zygmunta Szpernala</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Helenę 19&nbsp;rocz. śm., Stanisława Boduła<br>
+                                    2. + Józefę Bociek</td>
+                                </tr>
+
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 23&nbsp;kwietnia</b></td>
+                                    <td><b>Uroczystość św.&nbsp;Wojciecha Biskupa
+                                    i&nbsp;Męczennika</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Jacentego Koguta<br>
+                                    2. + Jerzego Polka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. Dziękczynno-błagalna z&nbsp;okazji rocznicy ślubu
+                                        o&nbsp;Boże Błogosławieństwo.<br>
+                                    2. + Jerzego Sochę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 24&nbsp;kwietnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Elżbietę, Tadeusza, Kazimierza Sochów<br>
+                                    2. + Jerzego Polka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Dorotę Zuba<br>
+                                    2. + Elżbietę Stefanek 24&nbsp;rocz. śm., Sebastiana
+                                    Stefanka 27&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 25&nbsp;kwietnia</b></td>
+                                    <td><b>Święto św.&nbsp;Marka, Ewangelisty</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Ewę Ozdoba<br>
+                                    2. + Stanisława Czosnka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jana Makowskiego, Jana, Klarę, Ryszarda
+                                        Chrząstowskich<br>
+                                    2. + Andrzeja Margula</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 26&nbsp;kwietnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Irenę Borycką<br>
+                                    2. + Jerzego Polka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Zofię Kołodziej<br>
+                                    2. + Antoninę, Władysława i&nbsp;zm. z&nbsp;rodz.
+                                    Materkowskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 27&nbsp;kwietnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Marię i&nbsp;Czesława Witek, Annę rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Agnieszkę Pietrusińską<br>
+                                    2. + Stanisława rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 21&nbsp;kwietnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">V&nbsp;Niedziela Wielkanocna</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Marainnę Chorąży w&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Zofię Krasudę 20&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Henrykę, Stanisława, Mieczysława Bieńków</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Tadeusza Iwańskiego 15&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>21.&nbsp;kwietnia 2024&nbsp;r.</h3>
+                                <h3>IV Niedziela Wielkanocna, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza,
+                                która rozpoczyna Tydzień Modlitw o&nbsp;Powołania Kapłańskie, Zakonne
+                                i&nbsp;Misyjne. W&nbsp;naszej osobistej modlitwie powierzajmy Bogu
+                                te&nbsp;sprawy Kościoła.</p>
+                                <p>2. We&nbsp;wtorek Uroczystość św.&nbsp;Wojciecha – patrona
+                                Polski.</p>
+                                <p>3. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+                                raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+                                raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+                                świętą.</em> Dlatego zadbajmy o&nbsp;nasze życie duchowe
+                                w&nbsp;jedności z&nbsp;Panem Bogiem. SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED
+                                MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 –
+                                17.50.</p>
+                                <p>4. Próby dla młodzieży z&nbsp;klas VIII, która przystępuje
+                                w&nbsp;tym roku do&nbsp;Sakramentu Bierzmowania odbędą się
+                                w&nbsp;dn.&nbsp;23, 24 i&nbsp;25&nbsp;kwietnia (wtorek-środa-czwartek)
+                                po&nbsp;Mszy Świętej wieczorowej w&nbsp;kościele. Obecność
+                                obowiązkowa.</p>
+                                <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+                                <p>6. W&nbsp;najbliższą sobotę, 27&nbsp;kwietnia o&nbsp;godzinie 18.00
+                                w&nbsp;naszej Parafii będziemy przeżywali kolejny Wieczór Uwielbienia.
+                                Tym razem naszej modlitwie będzie towarzyszył znany zespół
+                                ewangelizacyjny „Mocni w&nbsp;Duchu”.</p>
+                                <p>7. <strong>Plan nawiedzenia relikwii Błogosławionej Rodziny Ulmów
+                                w&nbsp;Katedrze Sandomierskiej: 23.04.2024&nbsp;r. (wtorek).</strong></p>
+                                <p>16.30 - wprowadzenie relikwii i&nbsp;różaniec w&nbsp;intencji
+                                małżeństw i&nbsp;rodzin prowadzony przez wspólnotę Domowego
+                                Kościoła.</p>
+                                <p>17.00 - Konferencja - "Biblia w&nbsp;rodzinie Ulmów" –
+                                Ks.&nbsp;dr&nbsp;Michał Powęska.</p>
+                                <p>17.30 - Msza święta w&nbsp;intencji małżeństw i&nbsp;rodzin.
+                                Po&nbsp;Mszy adoracja relikwii i&nbsp;modlitwa indywidualna.</p>
+                                <p>19.15 - 20.15 - czuwanie modlitewne prowadzone przez Legion
+                                Maryi.</p>
+                                <p>20.15 - 21.00 - czuwanie modlitewne z&nbsp;Rodzinami prowadzone
+                                przez młodzież ze&nbsp;Szkoły Katolickiej im.&nbsp;Św.&nbsp;Jadwigi
+                                Królowej w&nbsp;Sandomierzu zakończone Apelem Jasnogórskim.</p>
+                                <p>W&nbsp;czasie peregrynacji będzie można nabyć publikacje
+                                na&nbsp;temat Błogosławionej rodziny Ulmów.</p>
+                                <p>8. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii, za&nbsp;wszelką pomoc. Wszystkim
+                                życzymy błogosławionej Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 21.&nbsp;kwietnia 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
