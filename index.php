@@ -33,8 +33,13 @@ include 'facebook.php';
                     </div>
                     <p class="lead mb-5">Zapraszamy Cię Gościu drogi do zapoznania się z treścią tej strony internetowej.
                         Znajdziesz tu wszystkie potrzebne informacje oraz kontakt do księży.</p>
-                    <p class="lead mb-5">Kancelaria parafialna czynna:<br>
-                        codziennie, <strong>od poniedziałku do piątku</strong>, po Mszy Świętej odprawianej o godzinie 18.00.</p>
+                    <p class="lead mb-5"><strong>Kancelaria parafialna czynna:</strong><br>
+                        Poniedziałek: 18.30 – 19.00<br>
+                        Wtorek: 18.30 – 19.00<br>
+                        Środa: nieczynne<br>
+                        Czwartek: 18.30 – 19.00<br>
+                        Piątek: 18.30 – 19.00<br>
+                        Sobota: nieczynne</p>
 
                     <h3>Strona internetowa Diecezji Sandomierskiej:</h3>
 
