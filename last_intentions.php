@@ -1,135 +1,130 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            6.05. – 12.05.2024&nbsp;r.
+            13.05. – 19.05.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 6&nbsp;maja</b></td>
-            <td><b>Święto Świętych Apostołów Filipa
-            i&nbsp;Jakuba</b></td>
+            <td><b>PONIEDZIAŁEK, 13&nbsp;maja</b></td>
+            <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. W&nbsp;int. Moniki i&nbsp;Łukasza z&nbsp;racji
-            3&nbsp;rocz. ślubu</td>
+            <td>O&nbsp;Boże błog. dla Karoliny i&nbsp;Piotra Niezgodów
+            w&nbsp;10&nbsp;rocz. ślubu</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Lucjana Sałka<br>
-            2. + Irenę Borycką</td>
+            <td>1. + Mariannę i&nbsp;Wacława Łukaszek<br>
+            2. + Zofię, Wincentego Bryłów, zm. z&nbsp;rodz. Bryłów</td>
         </tr>
 
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 7&nbsp;maja</b></td>
+            <td><b>WTOREK, 14&nbsp;maja</b></td>
+            <td><b>Święto św.&nbsp;Macieja Apostoła</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Mariannę i&nbsp;Józefa Łatkowskich, zm. zrodz.
+            Łatkowskich i&nbsp;Długowolskich</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. KWC<br>
+            2. + Józefę Szczębarę, zm. z&nbsp;rodz. Szczębarów,
+            Golców, Królów, Ostrowskich, Bednarskich i&nbsp;dusze
+            w&nbsp;czyśćcu cierpiące</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 15&nbsp;maja</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Stanisławę, Mariana Mądrych, zm. z&nbsp;rodz.,
-                dusze w&nbsp;czyśćcu cierpiące<br>
-            2. + Andrzeja Skoczkowskiego 2&nbsp;rocz. śm., Wincentego
-            i&nbsp;Józefę Gajewskich</td>
+            <td>+ Zofię Kołodziej</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Jana Chmurę i&nbsp;zm. z&nbsp;rodz.<br>
-            2. + Teresę Nowakowską</td>
+            <td>1. + Zofię, Jana, Edmunda Rosieckich<br>
+            2. + Zofię, Janusza, Jerzego i&nbsp;Wiesława
+            Potrzebowskich</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 8&nbsp;maja</b></td>
-            <td><b>Uroczystość św.&nbsp;Stanisława, Biskupa
-            i&nbsp;Męczennika</b></td>
+            <td><b>CZWARTEK, 16&nbsp;maja</b></td>
+            <td><b>Święto św.&nbsp;Andrzeja Boboli, Prezbitera,
+            męczennika</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Mariannę i&nbsp;Stanisława Czajków, i&nbsp;zm.
-                z&nbsp;rodz. Czajków, i&nbsp;Gachów<br>
-            2. + Stanisława Oszczudłowskiego, Zofię Gospodarczyk,
-            Stanisława Dumę</td>
+            <td>+ Zofię Kołodziej</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Stanisławę i&nbsp;Władysława Bokwa<br>
-            2. + Stanisławę i&nbsp;Stanisława (d.&nbsp;imienin)</td>
+            <td>1. O&nbsp;zdrowie, Boże błog., opiekę MB dla córki
+                Sary o&nbsp;pozytywne zdanie egzaminu<br>
+            2. Tomasza Chlebny – rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 9&nbsp;maja</b></td>
+            <td><b>PIĄTEK, 17&nbsp;maja</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Zofię Kołodziej<br>
+            <td>1. Wynagradzająca za&nbsp;grzechy eutanazji
+                i&nbsp;aborcji<br>
             2. + Stanisława Czosnka</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Włodzimierza, Dorotę, Stanisława
-                Pietrzykowskich<br>
-            2. + Janinę i&nbsp;Czesława Klimontów, Krystynę
-            i&nbsp;Witolda Szwedów, zm. z&nbsp;rodz. Klimontów</td>
+            <td>1. + Jadwigę i&nbsp;Wacława Wieczorków<br>
+            2. + Genowefę i&nbsp;Stanisława zm. z&nbsp;rodz.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 10&nbsp;maja</b></td>
+            <td><b>SOBOTA, 18&nbsp;maja</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. W int. dzieci i chrześniaków o żywą wiarę<br>
-            2. + Jerzego Polek</td>
+            <td>+ Kazimierę, Wacława, Wiesława, Kazimierę, Jana,
+            Kazimierza Wojna</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. O&nbsp;doświadczenie Bożej miłości i&nbsp;łaskę
-                nawrócenia dla męża Piotra, i&nbsp;ojca Tadeusza<br>
+            <td>1. + Zofię Strzębską<br>
             2. + Ewę Ozdoba</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 11&nbsp;maja</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. O&nbsp;łaskę dobrej śmierci</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Mariannę Nadziejko<br>
-            2. + Stanisława Pliżgę</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 12&nbsp;maja</b></td>
+            <td><b>NIEDZIELA, 19&nbsp;maja</b></td>
             <td><b>
-                <span style="color: red">VII&nbsp;Niedziela
-                    Wielkanocna<br>
-                Uroczystość Wniebowstąpienia Pańskiego</span>
+                <span style="color: red">Uroczystość Zesłania Ducha Świętego</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Krystynę, Józefa, Marcina Wronów, Stanisławę
-            i&nbsp;Mariana, Kazimierza Kasprowiczów</td>
+            <td>+ Zofię, Henryka, Wincentego z&nbsp;rodz.
+            Wyrzykowskich, Bogusława Stępińskiego</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Eugeniusza 6&nbsp;rocz. śm, Teresę i&nbsp;zm.
+            z&nbsp;rodz. Paciochów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Zofię i&nbsp;Stanisława Stępniów, Marię Czech</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Kazimierza Kaczmarskiego 7&nbsp;rocz. śm.</td>
+            <td>DK</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>Dziękczynna z&nbsp;racji 12&nbsp;rocz. ślubu Karoliny
-            i&nbsp;Piotra Niezgodów</td>
+            <td>O&nbsp;Boże błog., potrzebne łaski, opiekę MB dla
+            Oliwii Rykowskiej z&nbsp;racji 18&nbsp;urodzin</td>
         </tr>
     </tbody>
 </table>
