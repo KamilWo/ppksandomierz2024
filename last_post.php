@@ -13,64 +13,54 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>28.&nbsp;kwietnia 2024&nbsp;r.</h3>
-        <h3>V Niedziela Wielkanocna, Rok&nbsp;B</h3>
+        <h3>12.&nbsp;maja 2024&nbsp;r.</h3>
+        <h3>VII Niedziela Wielkanocna, Rok&nbsp;B<br>
+        Uroczystość Wniebowstąpienia Pańskiego</h3>
     </div>
     <div class="col">
-        <p>1. Nabożeństwa majowe w&nbsp;niedziele, święta i&nbsp;dni
-        powszednie o&nbsp;godz.&nbsp;17.30.</p>
-        <p>2. Sakrament Bierzmowania naszej młodzieży z&nbsp;parafii, udzieli
-        ks.&nbsp;bp&nbsp;Ordynariusz jutro o&nbsp;godz.&nbsp;18.00. Dziękujemy
-        rodzicom i&nbsp;młodzieży, która przyjmie jutro Sakrament Bierzmowania
-        za&nbsp;złożoną ofiarę na&nbsp;potrzeby parafii w&nbsp;wysokości
-        1000&nbsp;złotych. Za&nbsp;złożoną ofiarę zostały zakupione szaty
-        liturgiczne i&nbsp;naczynie liturgiczne.</p>
-        <p>3. Pielgrzymka Krucjaty Wyzwolenia Człowieka do&nbsp;sanktuarium
-        św.&nbsp;Józefa w&nbsp;Nisku, która odbędzie się 1&nbsp;maja. Program
-        jest następujący:<br>
-        9:30 Zawiązanie wspólnoty, konferencja i&nbsp;świadectwa;<br>
-        12:00 Msza Święta;<br>
-        14:30 Godzina odpowiedzialności i&nbsp;misji.</p>
-        <p>4. Nowa inicjatywa duszpasterska - w&nbsp;kościele seminaryjnym
-        św.&nbsp;Michała w&nbsp;Sandomierzu, codziennie w&nbsp;maju
-        o&nbsp;godz.&nbsp;20.30. Majówka dla zabieganych.</p>
-        <p>5. Dnia 4&nbsp;maja w&nbsp;Sandomierzu organizowany jest
-        Diecezjalny Dzień Strażaka. Msza&nbsp;św. w&nbsp;katedrze, następnie
-        przemarsz na&nbsp;sandomierski bulwar i&nbsp;dalsza część
-        świętowania.</p>
-        <p>6. Przypominamy, że&nbsp;dnia 11&nbsp;maja w&nbsp;Sulisławicach
-        organizowany jest Dzień Skupienia dla rolników, sadowników, ogrodników
-        oraz ich rodzin. Informacje na&nbsp;plakacie.</p>
-        <p>7. W&nbsp;najbliższą środę – 1&nbsp;maja, tzw. Dzień Otwartej Furty
-        w&nbsp;Wyższym Seminarium Duchownym w&nbsp;Sandomierzu, które zaprasza
-        do&nbsp;udziału w&nbsp;tym wydarzeniu dzieci i&nbsp;młodzież
-        z&nbsp;całej diecezji. Na&nbsp;program składają się Msza&nbsp;św.
-        o&nbsp;godz.&nbsp;10.30 i&nbsp;także niespodzianki, atrakcje
-        i&nbsp;zabawy dla uczestników. Więcej informacji na&nbsp;plakacie
-        w&nbsp;parafialnej gablocie.</p>
-        <p>8. W&nbsp;piątek - 3&nbsp;maja br. Uroczystość NMP Królowej Polski
-        – niedzielny porządek Mszy&nbsp;św. w&nbsp;naszym kościele.</p>
-        <p>9. W&nbsp;tym tygodniu Pierwszy czwartek, piątek i&nbsp;Pierwsza
-        sobota miesiąca. W&nbsp;Pierwszy Piątek miesiąca, spowiedź w&nbsp;tym
-        dniu od&nbsp;godz.&nbsp;17.30. W&nbsp;najbliższą sobotę
-        o&nbsp;godz.&nbsp;16.45. – nabożeństwo Różańcowe poprowadzi Legion
-        Maryi z&nbsp;naszej parafii.</p>
-        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
-        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
-        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
-        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
-        <p>11. W&nbsp;dn. 28&nbsp;lipca – 3&nbsp;sierpnia 2025 roku odbędzie
-        się w&nbsp;Rzymie Jubileuszowe Spotkanie Młodych z&nbsp;całego świata.
-        Planowany jest wyjazd także z&nbsp;naszej parafii. Szczegółowych
-        informacji udziela ks.&nbsp;Krystian Musiał.</p>
-        <p>12. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+        <p>1. Jutro 13&nbsp;maja - wspomnienie Matki Bożej Fatimskiej.</p>
+        <p>2. Dziś po&nbsp;Mszach św. zbiórka do&nbsp;puszek na&nbsp;leczenie
+        chorej Klary. <em>Bóg zapłać</em> miłosiernym ofiarodawcom.</p>
+        <p>3. Nasza parafia organizuje wyjazd na&nbsp;koncert Jednego Serca
+        Jednego Ducha w&nbsp;Rzeszowie w&nbsp;Boże Ciało. Wyjazd planowany
+        jest o&nbsp;godzinie 16.00. Zapisy w&nbsp;zakrystii. Szczegóły
+        u&nbsp;Ks.&nbsp;Krystiana Kałuży.</p>
+        <p>4. W&nbsp;sobotę, 18&nbsp;maja, zapraszamy do&nbsp;kościoła
+        seminaryjnego w&nbsp;Sandomierzu na&nbsp;czuwanie przed uroczystością
+        Zesłania Ducha Świętego wraz ze&nbsp;śpiewem Akatystu. Czuwanie
+        rozpocznie się o&nbsp;godz.&nbsp;21.15. Chcemy szczególnie prosić
+        o&nbsp;nowe powołania dla Kościoła oraz o&nbsp;świętość dla
+        powołanych.</p>
+        <p>5. Informujemy już teraz, że&nbsp;dnia 15&nbsp;czerwca
+        w&nbsp;Sandomierzu przy Szkołach Katolickich im.&nbsp;św.&nbsp;Jadwigi
+        Królowej odbędzie się Diecezjalne Spotkanie Rodzin połączone
+        z&nbsp;jubileuszem 25.&nbsp;Rocznicy wizyty św.&nbsp;Jana
+        Pawła&nbsp;II na&nbsp;Ziemi Sandomierskiej.</p>
+        <p>6. Duszpasterstwo Kobiet naszej diecezji wraz z&nbsp;Siostrami
+        Jadwiżankami zaprasza Panie w&nbsp;najbliższy wtorek
+        do&nbsp;Zawichostu na&nbsp;Majówkę dla Kobiet. Szczegółowe informacje
+        na&nbsp;wywieszonym plakacie w&nbsp;gablocie.</p>
+        <p>7. Sandomierski Chór Katedralny zaprasza na&nbsp;koncert pieśni
+        maryjnych, który odbędzie się w&nbsp;niedzielę 19&nbsp;maja&nbsp;br.
+        o&nbsp;godz.&nbsp;16.30 w&nbsp;bazylice katedralnej
+        w&nbsp;Sandomierzu.</p>
+        <p>8. Serdecznie zapraszamy wszystkich zainteresowanych
+        na&nbsp;wykłady otwarte z&nbsp;filozofii. Wykład odbędzie się
+        w&nbsp;najbliższą sobotę, o&nbsp;godz.&nbsp;16.00 w&nbsp;Domu
+        bł.&nbsp;Antoniego Rewery w&nbsp;Sandomierzu.</p>
+        <p>9. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>13. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
-        ofiary na&nbsp;potrzeby parafii, za&nbsp;wszelką pomoc. Wszystkim
-        życzymy błogosławionej.</p>
+        <p>10. W&nbsp;przyszłą niedzielę Uroczystość Zesłania Ducha&nbsp;Św.
+        – zakończenie okresu wielkanocnego.</p>
+        <p>11. Informujemy również, że&nbsp;8&nbsp;czerwca z&nbsp;Sandomierza
+        do&nbsp;Rozwadowa przez Sokolniki, Orliska, Kotową Wolę przejedzie
+        XV&nbsp;Rajd Papieski. Bliższe informacje zostaną podane
+        w&nbsp;następnym tygodniu.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        ofiary na&nbsp;remont plebanii. Wszystkim życzymy błogosławionej
+        Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 28.&nbsp;kwietnia 2024&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 12.&nbsp;maja 2024&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
