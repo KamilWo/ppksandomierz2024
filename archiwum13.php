@@ -19,7 +19,211 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;maja 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 26.&nbsp;maja 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    20.05. – 26.05.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 20&nbsp;maja</b></td>
+                                    <td><b>Święto NMP, Matki Kościoła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Krzysztofa Bajdę 2&nbsp;rocz. śm., Elżbietę
+                                        i&nbsp;Kazimierza Bajdów<br>
+                                    2. + Arkadiusza, Stanisława, Genowefę i&nbsp;Tadeusza</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. O&nbsp;Boże błog. dla Księży: Łukasza
+                                        i&nbsp;Szczepana w&nbsp;rocz. święceń<br>
+                                    2. + Irenę Borycką</td>
+                                </tr>
+
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 21&nbsp;maja</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Ewę Ozdoba<br>
+                                    2. + Jerzego Polek</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Elżbietę Socha<br>
+                                    2. + Mirosława Chmiela</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 22&nbsp;maja</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. W&nbsp;int. Anny i&nbsp;Katarzyny z&nbsp;okazji
+                                        urodzin Boże błog., i&nbsp;pogrzebne łaski<br>
+                                    2. + Teodorę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Ewę Marciniak<br>
+                                    2. + Barbarę i&nbsp;Mieczysława Bryła, Piotra Pazdro</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 23&nbsp;maja</b></td>
+                                    <td><b>Święto Jezusa Chrystusa, Najwyższego
+                                    i&nbsp;Wiecznego Kapłana</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Irenę Borycką<br>
+                                    2. + Bronisława Sochę 2&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Zygmunta Szpernala<br>
+                                    2. Dziękczynno-błagalna o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję i&nbsp;miłość, łaskę pokory i&nbsp;nawrócenie,
+                                    o&nbsp;uzdrowienie rodzinie</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 24&nbsp;maja</b></td>
+                                    <td><b>Wspomienie NMP Wspomożycielki Wiernych</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;potrzebne łaski dla Asi z&nbsp;racji
+                                        urodzin<br>
+                                    2. + Stanisława Czosnka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Kazimierza Grządkowskiego
+                                        i&nbsp;ks.&nbsp;Kazimierza Jarochę<br>
+                                    2. + Stanisławę Krakowiak</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 25&nbsp;maja</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Stanisława Komorowskiego 25&nbsp;rocz. śm.<br>
+                                    2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błog.
+                                    i&nbsp;opiekę MB dla Michaliny</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Czesława Krysę rocz. śm.<br>
+                                    2. + Pawła Grzesiaka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 26&nbsp;maja</b></td>
+                                    <td><b>
+                                        <span style="color: red">Uroczystość Najświętszej Trójcy</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>O&nbsp;Boże błog. dla ks.&nbsp;Damiana Dziubę
+                                    w&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Anielę, Romualda, Pamelę, Aleksandra Kapisów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>O&nbsp;Boże błog., potrzebne łaski, dary Ducha
+                                    Świętego dla Zofii</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>PIERWSZA KOMUNIA ŚWIĘTA</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Aleksandrę Ciamagę</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>19.&nbsp;maja 2024&nbsp;r.</h3>
+                                <h3>Uroczystość Zesłania Ducha Świętego, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Uroczystością Zesłania Ducha Świętego kończy się Okres
+                                Wielkanocny.</p>
+                                <p>2. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+                                „Niedziela”, „Gość Niedzielny”.</p>
+                                <p>3. Za&nbsp;tydzień w&nbsp;niedzielę w&nbsp;naszym kościele
+                                parafialnym o&nbsp;godz.&nbsp;12.30 - Uroczysta Pierwsza
+                                Komunia&nbsp;św. dzieci z&nbsp;naszej parafii. Spowiedź&nbsp;św. dla
+                                dzieci pierwszokomunijnych, dzieci rocznicowych i&nbsp;ich rodziców
+                                w&nbsp;najbliższy piątek o&nbsp;godz.&nbsp;16.30.</p>
+                                <p>4. Nasza parafia organizuje wyjazd na&nbsp;koncert Jednego Serca
+                                Jednego Ducha w&nbsp;Rzeszowie w&nbsp;Boże Ciało. Wyjazd planowany
+                                jest o&nbsp;godzinie 16.00. Możliwość zapisów w&nbsp;zakrystii
+                                <span style="text-decoration: underline; font-weight: bold;">tylko
+                                do&nbsp;najbliższego wtorku</span>. Szczegóły
+                                u&nbsp;Ks.&nbsp;Krystiana.</p>
+                                <p>5. W&nbsp;zeszłą niedziele do&nbsp;puszek, na&nbsp;lekarstwa dla
+                                dziewczynki chorej na&nbsp;mukowiscydozę zebrano 9633&nbsp;zł.
+                                To&nbsp;hojna ofiara od&nbsp;naszej parafii. <em>Bóg zapłać</em>
+                                miłosiernym ofiarodawcom.</p>
+                                <p>6. W&nbsp;najbliższą sobotę o&nbsp;godzinie 18.00 w&nbsp;naszej
+                                parafii odbędzie się kolejny <strong>Wieczór Uwielbienia</strong>
+                                pod hasłem „Duchu Święty działaj we&nbsp;mnie…”. Serdecznie
+                                zapraszamy.</p>
+                                <p>7. Apostolat Margaretka serdecznie zaprasza wszystkich członków
+                                apostolatu, jak również ludzi pragnących wspólnie się pomodlić
+                                w&nbsp;intencji kapłanów na&nbsp;II&nbsp;Diecezjalne Spotkanie
+                                Apostolatu Margaretka, które odbędzie się w&nbsp;naszej parafii
+                                1&nbsp;czerwca. Konferencję wygłosi Ks.&nbsp;Bogusław Kowalski –
+                                przyjaciel śp.&nbsp;Ks.&nbsp;Piotra Pawlukiewicza, który razem
+                                z&nbsp;nim napisał książkę „Czarny humor, czyli o&nbsp;Kościele
+                                na&nbsp;wesoło”. Szczegółowy program na&nbsp;plakacie
+                                w&nbsp;gablocie.</p>
+                                <p>8. Nabożeństwa majowe w&nbsp;niedziele, święta i&nbsp;dni
+                                powszednie o&nbsp;godz.&nbsp;17.30.</p>
+                                <p>9. Jutro Święto Matki Kościoła – Msze&nbsp;św. w&nbsp;tym dniu
+                                Msze&nbsp;św. o&nbsp;6.30 i&nbsp;o&nbsp;18.00,
+                                a&nbsp;w&nbsp;najbliższy czwartek Święto Jezusa Chrystusa Najwyższego
+                                i&nbsp;Wiecznego Kapłana – modlimy się w&nbsp;tym dniu
+                                o&nbsp;powołania i&nbsp;za&nbsp;kapłanów.</p>
+                                <p>10. W&nbsp;najbliższy wtorek, zapraszamy na&nbsp;kolejne spotkanie
+                                ABS czyli Akademii Biblijnej w&nbsp;Sandomierzu. Tematem tego
+                                spotkania będzie: <strong>Księgi Kronik i&nbsp;ich
+                                przesłanie</strong>. Spotkanie będzie we&nbsp;wtorek, 21&nbsp;maja
+                                o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium Duchownego.
+                                W&nbsp;spotkaniu będzie można uczestniczyć także internetowo, będzie
+                                ono transmitowane przez Facebooka, na&nbsp;profilu <em>WSDSandomierz</em>.
+                                Serdecznie zapraszamy!</p>
+                                <p>11. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+                                za&nbsp;wszelką pomoc i&nbsp;ofiary na&nbsp;rzecz naszej parafii.
+                                Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+                                urodziny, inne rocznice, składamy najlepsze życzenia
+                                z&nbsp;kapłańskim błogosławieństwem.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 19.&nbsp;maja 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
