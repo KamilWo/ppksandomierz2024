@@ -1,141 +1,135 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            27.05. – 02.06.2024&nbsp;r.
+            03.06. – 09.06.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 27&nbsp;maja</b></td>
-            <td><b></b></td>
+            <td><b>PONIEDZIAŁEK, 3&nbsp;czerwca</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Karola Langi
+            i&nbsp;Towarzyszy, męczenników</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Bogdana Płodowskiego</td>
+            <td>1. W&nbsp;intencji dzieci i&nbsp;chrześniaków
+            o&nbsp;żywą wiarę</td>
         </tr>
         <tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>1. + Agnieszkę Pietrusińską<br>
-            2. + Teresę Nowakowską</td>
+            2. + Stanisławę, Jana, Stanisława, Witolda, Mariana,
+            Krystynę, Mariana i&nbsp;Janinę</td>
         </tr>
 
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 28&nbsp;maja</b></td>
+            <td><b>WTOREK, 4&nbsp;czerwca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Helenę i&nbsp;Franciszka Kucharskich,
-                i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+            <td>1. O&nbsp;łaskę dobrej śmierci<br>
             2. + Teodorę Woźniak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Agnieszkę Pietrusińską<br>
-            2. + Bogdana Płodowskiego</td>
+            <td>1. + Jana Popka w rocz. śm.<br>
+            2. + Ludwikę Szczębarę, zm. z&nbsp;rodz. Szczębarów,
+            Golców, Królów, Ostrowskich, Bednarskich i&nbsp;dusze
+            w&nbsp;czyśćcu cierpiące</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 29&nbsp;maja</b></td>
-            <td><b>Wspomnienie św.&nbsp;Urszuli Leduchowskiej,
-            dziewicy</b></td>
+            <td><b>ŚRODA, 5&nbsp;czerwca</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Bonifacego, biskupa
+            i&nbsp;męczennika</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Zygmunta Szpernala<br>
-            2. + Teodorę Woźniak</td>
+            <td>1. + Zbigniewa Kamińskiego 9&nbsp;rocz. śm., Ludwikę
+                i&nbsp;Jana Kamińskich<br>
+            2. + Stanisława Czosnka</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Ryszarda Kubickiego 16&nbsp;rocz. śm.,
-                Stanisława Niewiadomskiego<br>
-            2. + Elżbietę Socha</td>
+            <td>1. + Roberta Mazura<br>
+            2. + Aleksandrę Ciamagę rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 30&nbsp;maja</b></td>
-            <td><b><span style="color: red">Uroczystość Najświętszego
-            Ciała i&nbsp;Krwi Chrystusa</span></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">7.30</td>
-            <td>1. + Urszulę i&nbsp;Janusza Masztalerzów, i&nbsp;zm.
-                z&nbsp;ich rodzin<br>
-            2. + Stanisława Łukasiewicza</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.30</td>
-            <td>1. Za&nbsp;parafian<br>
-            2. + Mieczysława Marchewkę, Mariannę, Walentego
-            Michalskich, zm. z&nbsp;rodz. Michalskich, Trojanowskich
-            i&nbsp;Marchewków</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Stawomira, Kazimierę, Stanisława Rykowskich,
-            Stefania, Adama Osuchów</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 31&nbsp;maja</b></td>
-            <td><b>Święto Nawiedzenia NMP</b></td>
+            <td><b>CZWARTEK, 6&nbsp;czerwca</b></td>
+            <td><b>I&nbsp;Czwartek miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Barbarę i&nbsp;Mieczysława Bryłów<br>
+            <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                kapłańskie<br>
             2. + Teodorę Woźniak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>1. + Bogdana Płodowskiego<br>
-            2. + Stanisławę i&nbsp;Henryka Krakowiaków</td>
+            2. + Barbarę i&nbsp;Mieczysława Bryłów, Bogusława Bryłę,
+            Andrzeja Jakubowskiego</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 1&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie św.&nbsp;Justyna, męczennika<br>
-            I&nbsp;Sobota miesiąca</b></td>
+            <td><b>PIĄTEK, 7&nbsp;czerwca</b></td>
+            <td><b>Uroczystość Najświętszego Serca Pana Jezusa<br>
+            I&nbsp;Piątek miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>1. + Teodozję i&nbsp;Zdzisława, zm. z&nbsp;rodz.
-            i&nbsp;dusze w&nbsp;czyśćcu cierpiące</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">12.00</td>
-            <td>Msza Święta Apostolatu „Margaretka”</td>
+            <td>1. + Andrzeja Margulę<br>
+            2. + Teodorę Woźniak</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. LM<br>
-            2. + Agnieszkę Pietrusińską</td>
+            <td>1. + Tomasza 26&nbsp;rocz. śm.<br>
+            2. + Kamilę Załuską 18&nbsp;rocz. śm., Władysława
+            Pawłowskiego</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 2&nbsp;czerwca</b></td>
+            <td><b>SOBOTA, 8&nbsp;czerwca</b></td>
+            <td><b>Wspomnienie Niepokalanego Serca NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Genowefę Kaczor 1&nbsp;rocz. śm.</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. Dziękczynno-błagalna o&nbsp;Boże błog. dla
+                Heleny<br>
+            2. + Jana i&nbsp;Andrzeja Popków</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 9&nbsp;czerwca</b></td>
             <td><b>
-                <span style="color: red">IX&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">X&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Mieczysława, Helenę, Jana Wnuków, Stanisława,
-            Katarzynę Wyrzykowskich, Tadeusza Judę, Piotra
-            Bogdańskiego</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Tomasza Szyprowskiego</td>
+            <td>+ Zofię, Wawrzyńca Kwietniów, zm. z&nbsp;rodz.
+            Kwietniów i&nbsp;Kondeuszów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>K.Ż.R. od&nbsp;Róży z&nbsp;Milczan</td>
+            <td>O&nbsp;Boże błog., porzebne łaski, opiekę MB dla Hani
+            z&nbsp;racji 16&nbsp;rocz. urodzin</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>ROCZNICA PIERWSZEJ KOMUNII ŚWIĘTEJ</td>
+            <td>+ Mariana w&nbsp;rocz. śm., Helenę Przyłuckich</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Zofię Kołodziej</td>
         </tr>
     </tbody>
 </table>
