@@ -19,7 +19,190 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;czerwca 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;czerwca 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    10.06. – 16.06.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 10&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Elżbietę Socha</td>
+                                </tr>
+                                <tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Agnieszkę Pietrusińską<br>
+                                    2. O&nbsp;doświadzenie Bożej miłości i&nbsp;łaskę
+                                    nawrócenia dla męża Piotra, i&nbsp;ojca Tadeusza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 11&nbsp;czerwca</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Barnaby, Apostoła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Irenę i&nbsp;Władysława Młynarczyków<br>
+                                    2. + Teodorę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. KWC<br>
+                                    2. + Helenę, Ludwika Wabiów w&nbsp;rocz. śm., i&nbsp;zm.
+                                    z&nbsp;rodz.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 12&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Kazimierę i&nbsp;Franciszka Musiałów<br>
+                                    2. + Teodorę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Marka Stefaniaka<br>
+                                    2. + Adama Margiela 6&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 13&nbsp;czerwca</b></td>
+                                    <td><b>Wspomnienie św.&nbsp;Antoniego z&nbsp;Padwy,
+                                    Prezbitera i&nbsp;Doktora Kościoła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Stanisława i&nbsp;Idę Głazów<br>
+                                    2. + Teodorę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Anielę i&nbsp;Antoniego Gospodarczyków<br>
+                                    2. + Irenę Borycką</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 14&nbsp;czerwca</b></td>
+                                    <td><b>Wspomnienie bł.&nbsp;Michała Kozala, Biskupa
+                                    i&nbsp;Męczennika</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Stanisławę i&nbsp;Aleksandra Kowalów<br>
+                                    2. + Teodorę Woźniak</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Bogdana Płodowskiego<br>
+                                    2. + Stanisława Bartosza rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 15&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Wiesława Napieracza</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Barbarę, Stanisława Stańków, Andrzeja
+                                        Stroińskiego<br>
+                                    2. O&nbsp;Boże błog., Dary Ducha Św., opiekę MB dla
+                                    Jolanty z&nbsp;okazji urodzin</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 16&nbsp;czerwca</b></td>
+                                    <td><b>
+                                        <span style="color: red">XI&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Mariannę, Franciszka, Henryka Banasiewiczów,
+                                    Stanisławę Asik</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Roberta Burka, Janinę i&nbsp;Stefana Plachów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>DK</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
+                                    Roźmiejów, Zofię, Mikołaj, Eugeniusza Kapustów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję
+                                    i&nbsp;miłość, łaskę pokory, nawrócenie i&nbsp;uzdrowienie
+                                    w&nbsp;rodzinie</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>9.&nbsp;czerwca 2024&nbsp;r.</h3>
+                                <h3>X&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Trzynastego czerwca, tj.&nbsp;w&nbsp;czwartek, przypada rocznica
+                                nominacji ks.&nbsp;dr&nbsp;Krzysztofa Nitkiewicza na&nbsp;Biskupa
+                                Sandomierskiego w&nbsp;2009 roku, jest okazją do&nbsp;modlitwy
+                                w&nbsp;intencji Pasterza Kościoła Sandomierskiego.</p>
+                                <p>2. Spotkanie informacyjne dla wszystkich udających się
+                                na&nbsp;pielgrzymkę do&nbsp;Włoch odbędzie się w&nbsp;środę –
+                                <strong>12&nbsp;czerwca</strong> o&nbsp;godz.&nbsp;19.00 w&nbsp;Sali
+                                na&nbsp;plebanii. Prosimy, aby na&nbsp;to&nbsp;spotkanie zabrać
+                                ze&nbsp;sobą dowód osobisty lub paszport.</p>
+                                <p>3. Dnia 15&nbsp;czerwca w&nbsp;Sandomierzu, w&nbsp;ramach
+                                trwającego Roku Rodziny, odbędzie się Diecezjalne spotkanie rodzin.
+                                Początek o&nbsp;godz.&nbsp;11 na&nbsp;Placu Papieskim, skąd
+                                w&nbsp;Marszu dla Życia i&nbsp;Rodziny przejdziemy pod Szkoły
+                                Katolickie im.&nbsp;św.&nbsp;Jadwigi Królowej, gdzie
+                                o&nbsp;godz.&nbsp;12.00 sprawowana będzie Msza&nbsp;św. Szczegóły
+                                na&nbsp;załączonym plakacie. Prosimy i&nbsp;zachęcamy naszych wiernych
+                                parafian do&nbsp;udziału w&nbsp;tym spotkaniu.</p>
+                                <p>4. Dziś po&nbsp;zakończeniu Mszy&nbsp;Św. zbiórka do&nbsp;puszek
+                                na&nbsp;Świątynie Opatrzności Bożej w&nbsp;ramach Dnia
+                                Dziękczynienia.</p>
+                                <p>5. Dnia 22&nbsp;czerwca, tj.&nbsp;sobota, w&nbsp;Domu Katolickim
+                                w&nbsp;Sandomierzu o&nbsp;godz.&nbsp;15.00, odbędzie się wręczenie
+                                Diecezjalnej Nagrody „Arbor bona”, połączone z&nbsp;koncertem Moniki
+                                Kuszyńskiej. Wstęp na&nbsp;koncert podobnie, jak w&nbsp;roku ubiegłym,
+                                jest bezpłatny. Zapraszamy wiernych na&nbsp;to&nbsp;wydarzenie.</p>
+                                <p>6. Słowa wdzięczności wyrażamy rodzicom dzieci, które w&nbsp;zeszłą
+                                niedzielę przeżywały rocznicę Pierwszej Komunii&nbsp;św. - ofiarowali
+                                1000&nbsp;zł na&nbsp;potrzeby parafii. <em>Bóg zapłać</em>.</p>
+                                <p>7. Prasa katolicka na&nbsp;stoliku, szczególnie polecamy artykuł
+                                o&nbsp;proboszczach w&nbsp;czasopiśmie „Niedziela”.</p>
+                                <p>8. Zmarł ks.&nbsp;Jan Toś pochodzący z&nbsp;tej parafii, przeżył
+                                65&nbsp;lat, jutro godz.&nbsp;13.00 Msza&nbsp;św. żałobna w&nbsp;jego
+                                intencji w&nbsp;naszym parafialnym kościele. <em>Wieczny odpoczynek
+                                racz mu dać Panie …</em></p>
+                                <p>9. Wszystkim życzymy błogosławionej Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 9.&nbsp;czerwca 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
