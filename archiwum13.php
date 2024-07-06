@@ -19,7 +19,176 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 23.&nbsp;czerwca 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 30.&nbsp;czerwca 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    24.06. – 30.06.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 24&nbsp;czerwca</b></td>
+                                    <td><b>Uroczystość Narodzenia św.&nbsp;Jana Chrzciciela</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Jana Radzimowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Jana – w&nbsp;dniu imienin</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 25&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Roberta Mazura</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Sławomira, Kazimierę Rykowskich, Stefanię
+                                    i&nbsp;Adama Osuchów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 26&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Ewę Wrzosek – 25&nbsp;r.&nbsp;śm., Bartłomieja,
+                                    Jana, Teresę, Janinę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Stefana Bieleckiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 27&nbsp;czerwca</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Roberta Mazura</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka Króla, zm. z&nbsp;rodz. Królów, Ostrowskich,
+                                    Szczębarów, Golców, Bednarskich, dusze w&nbsp;c.&nbsp;c.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 28&nbsp;czerwca</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Ireneusza, b.&nbsp;m.</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Roberta Mazura</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB dla Ks.&nbsp;Piotra Tylca z&nbsp;racji
+                                    imienin i&nbsp;rocznicy święceń</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 29&nbsp;czerwca</b></td>
+                                    <td><b>Uroczystość Świętych Apostołów Piotra
+                                    i&nbsp;Pawła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Zofię, Wincentego, Henryka, zm. z&nbsp;rodz.
+                                    Wyrzykowskich, Bogusława Stępińskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.00</td>
+                                    <td>+ Roberta Mazura</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td><strong>WIECZÓR UWIELBIENIA</strong><br>
+                                    + Dz-Błag. o&nbsp;BB dla Kai</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 30&nbsp;czerwca</b></td>
+                                    <td><b>
+                                        <span style="color: red">XIII&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Jerzego Sochę – 1&nbsp;r.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Mariannę, Mieczysława, Józefa i&nbsp;zm.
+                                    z&nbsp;rodz.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>Dziękczynna z&nbsp;prośbą o&nbsp;BB i&nbsp;opiekę MB
+                                    dla Dominiki, i&nbsp;Grzegorza w&nbsp;10&nbsp;r.
+                                    ślubu</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię Smolińską – 8&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>23.&nbsp;czerwca 2024&nbsp;r.</h3>
+                                <h3>XII&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;najbliższą sobotę - Uroczystość Świętych Apostołów Piotra
+                                i&nbsp;Pawła. Msze&nbsp;św. o&nbsp;godz.&nbsp;6.30, 9.00
+                                i&nbsp;o&nbsp;18.00 – „Dzień Papieski” taca tego dnia przeznaczona
+                                jest na&nbsp;Stolicę Apostolską.</p>
+                                <p>2. Ostatni przed przerwą wakacyjną <strong>Wieczór
+                                Uwielbienia</strong> pod hasłem zaczerpniętym od&nbsp;o.&nbsp;Dolindo
+                                „Jezu, Ty&nbsp;się tym zajmij…” odbędzie się w&nbsp;najbliższą sobotę
+                                o&nbsp;godzinie 18.00. Serdecznie zapraszamy do&nbsp;wspólnej
+                                modlitwy.</p>
+                                <p>3. Przed nami czas wakacji, przypominamy wszystkim katolikom
+                                o&nbsp;trwaniu w&nbsp;wierności wobec Boga i&nbsp;Jego przykazań,
+                                i&nbsp;zachowaniu szacunku do&nbsp;Kościoła&nbsp;św.,
+                                i&nbsp;przestrzegania Jego zasad, choćby systematyczne uczestnictwo
+                                w&nbsp;niedzielnej Mszy&nbsp;św. codzienna modlitwa, korzystanie
+                                z&nbsp;sakramentów&nbsp;św. godny strój i&nbsp;szlachetne zachowanie
+                                w&nbsp;miejscach św.</p>
+                                <p>4. Dziękujemy parafianom, Panom: Wacławowi Miszczakowi
+                                i&nbsp;Leszkowi Czajce za&nbsp;odnowienie krzyża misyjnego przed
+                                kościołem parafialnym, innym parafianom za&nbsp;ofiarowanie
+                                i&nbsp;zasadzenie ozdobnych roślin przy naszym kościele oraz
+                                za&nbsp;ofiarowane cukierki dla dzieci. Wszystkim serdeczne
+                                <em>Bóg zapłać</em>.</p>
+                                <p>5. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+                                Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
+                                <p>6. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+                                urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 23.&nbsp;czerwca 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">

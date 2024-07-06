@@ -1,123 +1,120 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            24.06. – 30.06.2024&nbsp;r.
+            8.07. – 14.07.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 24&nbsp;czerwca</b></td>
-            <td><b>Uroczystość Narodzenia św.&nbsp;Jana Chrzciciela</b></td>
+            <td><b>PONIEDZIAŁEK, 8&nbsp;lipca</b></td>
+            <td><b>Wspomnienie św.&nbsp;Jana z&nbsp;Dukli</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Jana Radzimowskiego</td>
+            <td>+ Józefę, Jana Marców, Ryszarda Pietruszkę</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Jana – w&nbsp;dniu imienin</td>
+            <td>+ Leokadię Wnuk 13&nbsp;rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 25&nbsp;czerwca</b></td>
+            <td><b>WTOREK, 9&nbsp;lipca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Roberta Mazura</td>
+            <td>KWC</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Sławomira, Kazimierę Rykowskich, Stefanię
-            i&nbsp;Adama Osuchów</td>
+            <td>1. W&nbsp;int. Gabriela w&nbsp;18&nbsp;rocz. urodzin<br>
+            2. + Mieczysława i&nbsp;Genowefę Chałupczak</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 26&nbsp;czerwca</b></td>
+            <td><b>ŚRODA, 10&nbsp;lipca</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Ewę Wrzosek – 25&nbsp;r.&nbsp;śm., Bartłomieja,
-            Jana, Teresę, Janinę</td>
+            <td>+ Genowefę i&nbsp;Andrzeja Wosiów, Stanisława Wróbla,
+            Mariannę Sendrowicz</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Stefana Bieleckiego</td>
+            <td>W&nbsp;int. pielgrzymów pielgrzymki „W&nbsp;intencj
+            kapłanów” do&nbsp;Medjugorie o&nbsp;potrzebne łaski, Boże
+            błog. i&nbsp;opiekę MB</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 27&nbsp;czerwca</b></td>
-            <td><b></b></td>
+            <td><b>CZWARTEK, 11&nbsp;lipca</b></td>
+            <td><b>Święto św.&nbsp;Benedykta, Patrona Europy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Roberta Mazura</td>
+            <td>+ Wiesława Napieracza</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Henryka Króla, zm. z&nbsp;rodz. Królów, Ostrowskich,
-            Szczębarów, Golców, Bednarskich, dusze w&nbsp;c.&nbsp;c.</td>
+            <td>+ Krystynę w&nbsp;rocz. śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 28&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Ireneusza, b.&nbsp;m.</b></td>
+            <td><b>PIĄTEK, 12&nbsp;lipca</b></td>
+            <td><b>Wspomnienie św.&nbsp;Brunona Bonifacego
+            z&nbsp;Kwerfurtu</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Roberta Mazura</td>
+            <td>+ Franciszka rocz. śm., Stefanię Kowalskich, Marię
+            Woś, Wiesławę Wałcerz</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>O&nbsp;BB dla Ks.&nbsp;Piotra Tylca z&nbsp;racji
-            imienin i&nbsp;rocznicy święceń</td>
+            <td>+ Zygmunta, Józefa, Annę Szcześniaków, Jana
+            i&nbsp;Agnieszkę Wieczorków</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 29&nbsp;czerwca</b></td>
-            <td><b>Uroczystość Świętych Apostołów Piotra
-            i&nbsp;Pawła</b></td>
+            <td><b>SOBOTA, 13&nbsp;lipca</b></td>
+            <td><b>Wspomnienie Świętych pustelników Andrzeja Świerada
+            i&nbsp;Benedykta</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Zofię, Wincentego, Henryka, zm. z&nbsp;rodz.
-            Wyrzykowskich, Bogusława Stępińskiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>+ Roberta Mazura</td>
+            <td>1. + Roberta Mazura<br>
+            2. + Stanisława, Janinę, Zdzisława Kulów</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td><strong>WIECZÓR UWIELBIENIA</strong><br>
-            + Dz-Błag. o&nbsp;BB dla Kai</td>
+            <td>+ Aleksandrę, Franciszka i&nbsp;Kazimierza Burków</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 30&nbsp;czerwca</b></td>
+            <td><b>NIEDZIELA, 14&nbsp;lipca</b></td>
             <td><b>
-                <span style="color: red">XIII&nbsp;Niedziela Zwykła</span>
+                <span style="color: red">XV&nbsp;Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Jerzego Sochę – 1&nbsp;r.</td>
+            <td>Za&nbsp;parafan</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Mariannę, Mieczysława, Józefa i&nbsp;zm.
-            z&nbsp;rodz.</td>
+            <td>+ Henrykę, Leona Sochów, Stefana Stępnia</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Małgorzatę Rak 20&nbsp;rocz. śm., zm. z&nbsp;rodz.
+            Raków</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Dziękczynna z&nbsp;prośbą o&nbsp;BB i&nbsp;opiekę MB
-            dla Dominiki, i&nbsp;Grzegorza w&nbsp;10&nbsp;r.
-            ślubu</td>
+            <td>+ Teresę Piorun 2&nbsp;rocz. śm.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Zofię Smolińską – 8&nbsp;r.&nbsp;śm.</td>
+            <td>+ Janusza Tworowskiego 2&nbsp;rocz. śm., zmarłych jego
+            rodziców</td>
         </tr>
     </tbody>
 </table>
