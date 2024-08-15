@@ -23,6 +23,7 @@
         <ul class="navbar-nav">
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#news"><i class="fa fa-newspaper"></i> Aktualności</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#masses"><i class="fa fa-newspaper"></i> Intencje mszalne</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#prevention"><i class="fa fa-exclamation"></i> Prewencja i&nbsp;ochrona małoletnich</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#announcements"><i class="fa fa-newspaper"></i> Komunikaty</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#pastoral_visit"><i class="fa fa-person-walking"></i> Wizyta Duszpasterska</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#parish"><i class="fa fa-church"></i> O Parafii</a></li>
