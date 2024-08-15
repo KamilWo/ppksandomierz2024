@@ -5,7 +5,7 @@
         <h3>Informacje</h3>
     </div>
     <div class="col">
-<p>Mając na&nbsp;uwadze aktualnie obowiązuje prawo, tj.&nbsp;art.
+<p>Mając na&nbsp;uwadze aktualnie obowiązujące prawo, tj.&nbsp;art.
 22b ustawy z&nbsp;13&nbsp;maja 2016&nbsp;r. o&nbsp;przeciwdziałaniu
 zagrożeniom przestępczością na&nbsp;tle seksualnym i&nbsp;ochronie
 małoletnich (Dz.&nbsp;U. z&nbsp;2023&nbsp;r. poz. 1304) oraz
