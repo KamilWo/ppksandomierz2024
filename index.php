@@ -80,6 +80,15 @@ include 'facebook.php';
                 </div>
             </section>
             <hr class="m-0" />
+            <!-- Prewencja i ochrona małoletnich -->
+            <section class="website-section" id="prevention">
+                <div class="website-section-content">
+                    <?php
+                    include 'prevention.php';
+                    ?>
+                </div>
+            </section>
+            <hr class="m-0" />
             <!-- Komunikaty -->
             <section class="website-section" id="announcements">
                 <div class="website-section-content">
