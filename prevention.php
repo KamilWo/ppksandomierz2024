@@ -38,7 +38,7 @@ w&nbsp;składzie:</p>
 <br>
 <p>Pliki do&nbsp;pobrania:</p>
 <ol>
-<li><a href="/static/download/2024_STANDARDY_-_wersja_ostateczna.pdf">
+<li><a href="/static/download/2024_STANDARDY_-_wersja_ostateczna_2_0.pdf">
 Standardy Ochrony Małoletnich</a></li>
 <li><a href="/static/download/2024_Załącznik_nr_7_do_Standardów_Ochrony_Małoletnich-wersja_skrócona.pdf">
 Załącznik nr&nbsp;7 do&nbsp;Standardów Ochrony Małoletnich</a></li>
