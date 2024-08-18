@@ -24,7 +24,7 @@ najlepszym interesie.</p><br>
 w&nbsp;składzie:</p>
 <ol>
 <li>Ks. Stanisław Chmielewski - Przewodniczący</li>
-<li>Sylwia Dudek-Mądry – Osoba Zaufania</li>
+<li>Sylwia Dudek – Osoba Zaufania</li>
 <li>Renata Kędziora</li>
 <li>Ks.&nbsp;Krystian Musiał</li>
 </ol>
@@ -32,7 +32,7 @@ w&nbsp;składzie:</p>
 <p>W&nbsp;parafii została wyznaczona tzw.
 <strong>OSOBA ZAUFANIA:</strong></p>
 
-<p>Sylwia Dudek-Mądry</p>
+<p>Sylwia Dudek</p>
 
 <p>Kontakt: <a href="mailto:prewencja.ppks@op.pl">prewencja.ppks@op.pl</a></p>
 <br>
