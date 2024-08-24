@@ -143,6 +143,38 @@ include 'head.php';
 
                         <div class="card">
                             <div class="card-header">
+                                <h3>18.&nbsp;sierpnia 2024&nbsp;r.</h3>
+                                <h3>XX&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;sobotę dnia 24&nbsp;sierpnia br. Odbędzie się Diecezjalna
+                                Piesza Pielgrzymka Trzeźwościowa z&nbsp;Sandomierza do&nbsp;Radomyśla.
+                                Wyjście z&nbsp;katedry o&nbsp;godz.&nbsp;5.30. Więcej informacji pod
+                                tel. 660&nbsp;329&nbsp;982.</p>
+                                <p>2. Zachęcamy do&nbsp;modlitwy w&nbsp;intencji osób uzależnionych
+                                od&nbsp;alkoholu i&nbsp;ich rodzin. Miesiąc sierpień w&nbsp;tradycji
+                                Kościoła w&nbsp;Polsce, jest okresem szczególnej modlitwy
+                                o&nbsp;trzeźwość w&nbsp;rodzinach.</p>
+                                <p>3. Autokarowa pielgrzymka śladami Bożego Miłosierdzia
+                                do&nbsp;Sokółki, Kowna i&nbsp;Wilna od&nbsp;26-29&nbsp;września br.
+                                Koszt wyjazdu 1600&nbsp;zł plus 45&nbsp;euro. Plan pielgrzymki jest
+                                w&nbsp;parafialnej gablocie. Szczegółowych informacji udziela
+                                ks.&nbsp;Krystian Musiał.</p>
+                                <p>4. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”.</p>
+                                <p>5. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 18.&nbsp;sierpnia 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
                                 <h3>INTENCJE MSZY ŚWIĘTYCH<br>
                                     15.07. – 21.07.2024&nbsp;r.
                                 </h3>
