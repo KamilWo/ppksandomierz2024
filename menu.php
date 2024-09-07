@@ -29,6 +29,7 @@
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#parish"><i class="fa fa-church"></i> O Parafii</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#mass_times"><i class="fa fa-book-reader"></i> Liturgia</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#groups"><i class="fa fa-users"></i> Grupy parafialne</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#ministry"><i class="fa fa-users-line"></i> Duszpasterstwo DiM</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="index.php#contact"><i class="fa fa-address-book"></i> Kontakt</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="galeria.php"><i class="fa fa-images"></i> Galeria</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="archiwum.php"><i class="fa fa-archive"></i> Archiwum</a></li>

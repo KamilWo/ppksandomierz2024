@@ -134,6 +134,15 @@ include 'facebook.php';
                 </div>
             </section>
             <hr class="m-0" />
+            <!-- Duszpasterstwo dzieci i młodzieży -->
+            <section class="website-section" id="ministry">
+                <div class="website-section-content">
+                    <?php
+                    include 'duszpasterstwo_dim.php';
+                    ?>
+                </div>
+            </section>
+            <hr class="m-0" />
             <!-- Kontakt -->
             <section class="website-section" id="contact">
                 <div class="website-section-content">
