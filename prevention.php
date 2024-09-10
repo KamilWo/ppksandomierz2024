@@ -26,7 +26,6 @@ w&nbsp;składzie:</p>
 <li>Ks. Stanisław Chmielewski - Przewodniczący</li>
 <li>Sylwia Dudek – Osoba Zaufania</li>
 <li>Renata Kędziora</li>
-<li>Ks.&nbsp;Krystian Musiał</li>
 </ol>
 <br>
 <p>W&nbsp;parafii została wyznaczona tzw.
