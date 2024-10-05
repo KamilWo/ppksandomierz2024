@@ -1,131 +1,73 @@
 <div class="card">
     <div class="card-header">
-        <h3>26-29&nbsp;września 2024&nbsp;r.</h3>
-        <h3>PIELGRZYMKA ŚLADAMI BOŻEGO MIŁOSIERDZIA<br>
-        WILNO – KOWNO – TROKI</h3>
+        <h3>6.&nbsp;października 2024&nbsp;r.</h3>
+        <h3>XXVII&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
     </div>
     <div class="col">
-        <a href="/static/download/2024_PIELGRZYMKA_ŚLADAMI_BOŻEGO_MIŁOSIERDZIA.pdf">
-            <img style="width: 100%;"
-                 src="/static/src/images/2024_Wilno_Kowno_Troki.jpg" />
-        </a>
-        <br><br>
-
-        <p><strong>1 dzień</strong> Wyjazd z&nbsp;miejsca zbiórki
-        w&nbsp;godzinach nocnych (2:30). Przejazd
-        do&nbsp;<strong>Sokółki</strong>, nawiedzenie
-        kościoła p.w.&nbsp;Św.&nbsp;Antoniego Padewskiego - miejsca
-        cudu eucharystycznego - Msza&nbsp;Św. Wieczorem przyjazd
-        do&nbsp;hotelu w&nbsp;<strong>Kownie</strong>, zakwaterowanie,
-        obiadokolacja, nocleg.</p><br>
-
-        <p><strong>2 dzień</strong> Po&nbsp;śniadaniu, zwiedzanie
-        miasta: Zamek, Ratusz, Katedra Św.&nbsp;Piotra i&nbsp;Pawła,
-        Dom Perkuna. Następnie przejazd do&nbsp;<strong>Wilna</strong>,
-        zwiedzanie miasta: Góra Trzech Krzyży, Kościół Św.&nbsp;Piotra
-        i&nbsp;Pawła, Ostra Brama - symbol miasta, jedyna zachowana
-        brama miejska ze&nbsp;średniowiecznych murów obronnych
-        (w&nbsp;jednej z&nbsp;kapliczek znajduje się cudowny obraz
-        Matki Boskiej - najważniejszy symbol religijny Litwy) -
-        Msza&nbsp;Św., Klasztor Bazylianów, w&nbsp;którym
-        w&nbsp;czasach zaboru rosyjskiego mieściło się więzienie
-        w&nbsp;jednej z&nbsp;cel nazwanej później „Celą Konrada” przez
-        6&nbsp;miesięcy był więziony Adam Mickiewicz, Ratusz, getto
-        żydowskie. Czas wolny do&nbsp;dyspozycji turystów.<br>
-        Wieczorem zakwaterowanie w&nbsp;hotelu, obiadokolacja, nocleg.</p><br>
-
-        <p><strong>3 dzień</strong> Po&nbsp;śniadaniu cd. zwiedzania
-        miasta: Cmentarz na&nbsp;Rosie, Uniwersytet, Katedra
-        z&nbsp;kaplicą z&nbsp;relikwiami św.&nbsp;Kazimierza – patrona
-        Litwy Kościół Św.&nbsp;Ducha, Sanktuarium gdzie znajduje się
-        oryginał obrazu Miłosierdzia Bożego „Jezu, ufam Tobie” -
-        Msza&nbsp;Św., Zamek Górny na&nbsp;Wzgórzu Gedymina. Czas
-        wolny do&nbsp;dyspozycji turystów. Wieczorem powrót
-        do&nbsp;hotelu, obiadokolacja, nocleg.</p><br>
-
-        <p><strong>4 dzień</strong> Po&nbsp;śniadaniu wyjazd
-        do&nbsp;<strong>Trok</strong> - dawnej stolicy Wielkiego
-        Księstwa Litewskiego, zwiedzanie miasteczka malowniczo
-        położonego nad jeziorem. Spacer wzdłuż ulicy Karaimskiej,
-        Kenesa – świątynia Karaimów - mniejszości etnicznej
-        pochodzenia tureckiego. Zapoznanie się z&nbsp;kulturą Karaimów
-        licznie zamieszkujących te&nbsp;tereny. Zwiedzanie położonego
-        na&nbsp;wyspie XIV - wiecznego zamku księcia Witolda.
-        Po&nbsp;zwiedzaniu czas wolny, możliwość posmakowania głównego
-        dania kuchni karaimskiej – kibinów. Msza&nbsp;Św.
-        w&nbsp;Sanktuarium Matki Boskiej Trockiej. Po południu
-        wyjazd w&nbsp;drogę powrotną.</p>
-        <p>Przyjazd na&nbsp;miejsce zbiórki w&nbsp;późnych godzinach
-        wieczornych.</p>
-
-        <h4>ODPŁATNOŚĆ: 1600&nbsp;zł. (grupa 50&nbsp;osób)</h4>
-        <h4>TERMIN: 26-29 września 2024 r.</h4>
+        <p>1. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;powodzian zostało
+        zebrane 12&nbsp;360&nbsp;zł słownie: (<strong>dwanaście tysięcy
+        trzysta sześćdziesiąt złotych</strong>). Pieniądze zostały przekazane
+        do&nbsp;Caritas Diecezji Sandomierskiej. <em>Bóg zapłać</em>
+        wszystkim ofiarodawcom.</p>
+        <p>2. W&nbsp;przyszłą niedzielę po&nbsp;Mszach św. liczenie wiernych
+        w&nbsp;kościele: <strong>dominicates</strong> (uczestniczących
+        we&nbsp;Mszy&nbsp;św. niedzielnej) i&nbsp;<strong>comunicantes</strong>
+        (przyjmujących Komunię&nbsp;św.).</p>
+        <p>3. Nasza Parafia wraz z&nbsp;Krucjatą Wyzwolenia Człowieka
+        zapraszają na&nbsp;Msze Święte z&nbsp;modlitwą w&nbsp;intencji osób
+        uzależnionych i&nbsp;ich rodzi. Msze Święte odbywać się będą
+        w&nbsp;każdy drugi wtorek miesiąca w&nbsp;naszym kościele. Najbliższa
+        Msza Święta we&nbsp;wtorek 8&nbsp;października 2024 roku
+        o&nbsp;godz.&nbsp;18.00. Jeśli masz problemy z&nbsp;uzależnieniem,
+        jeśli ten problem jest w&nbsp;Twojej rodzinie albo wśród Twoich
+        przyjaciół, znajomych, w&nbsp;Twoim środowisku, to&nbsp;przyjdź, aby
+        wspólnie modlić się o&nbsp;Bożą łaskę, Boże miłosierdzie i&nbsp;dar
+        uzdrowienia.</p>
+        <p>4. 13&nbsp;października obchodzić będziemy w&nbsp;Sandomierzu
+        doroczny odpust ku&nbsp;czci bł.&nbsp;Wincentego Kadłubka – patrona
+        naszej diecezji. W&nbsp;związku z&nbsp;tym zapraszamy tego dnia
+        do&nbsp;uczestnictwa w&nbsp;tych uroczystościach. Początek
+        o&nbsp;godz.&nbsp;10.00 w&nbsp;kościele seminaryjnym św.&nbsp;Michała
+        Archanioła, skąd wyruszy procesja z&nbsp;relikwiami błogosławionego
+        do&nbsp;Bazyliki Katedralnej, gdzie o&nbsp;godz.&nbsp;10.30 uroczystej
+        Eucharystii przewodniczył będzie bp&nbsp;Krzysztof Nitkiewicz. Bądźmy
+        razem tego dnia i&nbsp;módlmy się wspólnie w&nbsp;intencji naszej
+        Diecezji.</p>
+        <p>5. W&nbsp;najbliższy piątek, 11&nbsp;października,
+        o&nbsp;godz.&nbsp;17.00 w&nbsp;kościele seminaryjnym
+        pw.&nbsp;Św.&nbsp;Michała odbędzie się koncert muzyki dawnej
+        pt.&nbsp;Gdy anielskie brzmią muzyki w&nbsp;wykonaniu zespołu IlVento.
+        Podczas koncertu prezentowana będzie wystawa rękopisów muzycznych
+        Biblioteki Diecezjalnej w&nbsp;Sandomierzu.</p>
+        <p>6. W&nbsp;przyszłą niedzielę „Dzień Papieski” – zbiórka
+        do&nbsp;puszek na&nbsp;Fundację „Dzieło Nowego Tysiąclecia”.
+        Te&nbsp;zebrane pieniądze będą przeznaczone na&nbsp;wsparcie zdolnej
+        a&nbsp;ubogiej katolickiej młodzieży.</p>
+        <p>7. 13&nbsp;października, tj.&nbsp;w&nbsp;przyszłą niedzielę – Dzień
+        Imienin Biskupa pomocniczego Seniora Edwarda Frankowskiego.
+        Czcigodnego Solenizanta w&nbsp;dniu Jego imienin, polecać będziemy
+        Dobremu Bogu, w&nbsp;modlitwie różańcowej i&nbsp;w&nbsp;celebrowanych
+        Mszach św.</p>
+        <p>8. Zapraszamy na&nbsp;spotkania Duszpasterstwa Dzieci
+        i&nbsp;Młodzieży w&nbsp;naszej parafii w&nbsp;tym tygodniu. Kandydaci
+        na&nbsp;ministranta i&nbsp;młodsi ministranci będą mieli swoje
+        spotkanie w&nbsp;kościele w&nbsp;sobotę 12&nbsp;października
+        o&nbsp;godz.&nbsp;11:30. Zajęcia sportowe dla szkoły podstawowej
+        na&nbsp;hali przy ulicy Cieśli w&nbsp;najbliższą sobotę
+        12&nbsp;października od&nbsp;godz.&nbsp;12:15 do&nbsp;14:15.
+        Serdecznie zapraszamy nowe osoby do&nbsp;udziału w&nbsp;tych
+        spotkaniach.</p>
+        <p>9. Nabożeństwo różańcowe w&nbsp;naszym parafialnym kościele
+        o&nbsp;godzinie 17.30 w&nbsp;dni powszednie, w&nbsp;niedzielę.
+        Zapraszamy.</p>
+        <p>10. Przyjmujemy wypominki za&nbsp;zmarłych w&nbsp;zakrystii
+        po&nbsp;Mszach św. i&nbsp;w&nbsp;kancelarii.</p>
+        <p>11. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+        za&nbsp;wszelką pomoc, prace porządkowe przy kościele, złożone ofiary
+        na&nbsp;rzecz parafii. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
+        życzymy błogosławionej niedzieli.</p>
         <p>
-            <a href="/static/download/2024_PIELGRZYMKA_ŚLADAMI_BOŻEGO_MIŁOSIERDZIA.pdf">Plik do&nbsp;pobrania</a>
-            - dodatkowe informacje
-        </p>
-        <p>Szczegółowych informacji udziela i&nbsp;zapisy przyjmuje
-        ks.&nbsp;Krystian Musiał (+48 539-921-434).</p>
-        <p>
-            <span style="float: left;">Sandomierz, 12.&nbsp;sierpnia 2024&nbsp;r.</span>
-            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
-        </p>
-    </div>
-</div>
-<br>
-
-<div class="card">
-    <div class="card-header">
-        <h3>22.&nbsp;września 2024&nbsp;r.</h3>
-        <h3>XXV&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
-    </div>
-    <div class="col">
-        <p>1. Dziękujemy parafianom, Panom: Wacławowi Miszczakowi
-        i&nbsp;Leszkowi Czajce za&nbsp;naprawienie drzwi do&nbsp;łazienki
-        w&nbsp;kościele i&nbsp;na&nbsp;chór, pomalowanie barierki
-        na&nbsp;schodach do&nbsp;kancelarii parafialnej. <em>Bóg
-        zapłać</em>.</p>
-        <p>2. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy
-        katolickiej.</p>
-        <p>3. <em>Bóg zapłać</em> młodzieży i&nbsp;dzieciom
-        za&nbsp;uczestnictwo w&nbsp;spotkaniach organizacyjnych
-        w&nbsp;minionym tygodniu. Dziękujemy za&nbsp;obecność kandydatów
-        na&nbsp;ministranta w&nbsp;sobotę i&nbsp;młodzieży na&nbsp;spotkaniu
-        w&nbsp;piątek. Wasza obecność napełnia nadzieją
-        na&nbsp;przyszłość.</p>
-        <p>4. Zapraszamy na&nbsp;spotkania w&nbsp;tym tygodniu. Ten tydzień
-        będzie sportowy. Młodzież ze&nbsp;szkoły średniej zapraszamy
-        na&nbsp;grę w&nbsp;piłkę nożną na&nbsp;hali sportowej
-        w&nbsp;Mokoszynie w&nbsp;piątek o&nbsp;godz.&nbsp;19:00. Uczniów
-        szkoły podstawowej zapraszamy na&nbsp;grę w&nbsp;piłkę nożną
-        na&nbsp;halę w&nbsp;szkole podstawowej nr&nbsp;4 (budynek dawnego
-        gimnazjum) w&nbsp;sobotę o&nbsp;godz.&nbsp;9:30.</p>
-        <p>5. Spotkanie Kręgu biblijnego jutro po&nbsp;Mszy świętej
-        wieczorowej.</p>
-        <p>6. Ogólnopolska pielgrzymka małżeństw i&nbsp;rodzin na&nbsp;Jasną
-        Górę w&nbsp;przyszłą niedzielę.</p>
-        <p>7. Wznawiamy po&nbsp;przerwie wakacyjnej Wieczory Uwielbienia.
-        Zapraszamy na&nbsp;pierwszy z&nbsp;nich, który odbędzie się
-        w&nbsp;najbliższą sobotę 28&nbsp;września o&nbsp;godzinie 18.00
-        w&nbsp;naszym kościele. Na&nbsp;stoliku z&nbsp;prasą są&nbsp;rozłożone
-        ulotki z&nbsp;najważniejszymi informacjami dotyczącymi tego
-        wydarzenia, które można zabrać dla siebie oraz dla tych, których
-        chcemy na&nbsp; taką formę modlitwy zaprosić.</p>
-        <p>8. Powstająca grupa <strong>Wojownicy Maryi Sandomierz</strong>
-        zaprasza w&nbsp;każdą pierwszą sobotę miesiąca na&nbsp;spotkanie
-        formacyjne dla mężczyzn w&nbsp;wieku od&nbsp;18 do&nbsp;50 roku życia
-        do&nbsp;kościoła św.&nbsp;Józefa w&nbsp;Sandomierzu. Pierwsze
-        spotkanie w&nbsp;sobotę 5&nbsp;października 2024 roku
-        o&nbsp;godz.&nbsp;17.00. Szczegóły na&nbsp;plakacie
-        w&nbsp;gablocie.</p>
-        <p>9. W&nbsp;przyszłą niedziele taca na&nbsp;remont katedry
-        w&nbsp;Sandomierzu, a&nbsp;po&nbsp;Mszach zbiorka do&nbsp;puszek
-        na&nbsp;powodzian.</p>
-        <p>10. Diecezjalne spotkanie Kół Żywego Różańca, które odbędzie się
-        w&nbsp;Stalowej Woli Rozwadowie w&nbsp;par. pw.&nbsp;Matki Bożej
-        Szkaplerznej dnia 5&nbsp;października 2024 roku.</p>
-        <p>
-            <span style="float: left;">Sandomierz, 22.&nbsp;września 2024&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 6.&nbsp;października 2024&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
