@@ -674,7 +674,7 @@ include 'head.php';
 
                         <div class="card">
                             <div class="card-header">
-                                Spotkania Duszpasterstwa Dzieci i&nbsp;Młodzieży
+                                <h3>Spotkania Duszpasterstwa Dzieci i&nbsp;Młodzieży</h3>
                             </div>
                             <div class="col">
                                 <p>
