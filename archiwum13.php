@@ -19,7 +19,146 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 3.&nbsp;listopada 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 10.&nbsp;listopada 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    4.11. – 10.11.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 4&nbsp;listopada</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Karola Boromeusza</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. Dzięk-błag. o&nbsp;zdrowie, Boże błog., dary Ducha
+                                        Świętego i&nbsp;opiekę MB dla Marcina<br>
+                                    2. + Henryka Libickiego<br>
+                                    3. + Waldemara Pałacha</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Tomasza Chlebnego, Anielę i&nbsp;Antoniego
+                                        Gospodarczyków<br>
+                                    2. + Jana Szczębarę, zm. z&nbsp;rodz. Szczębarów, Golców,
+                                    Królów, Ostrowskich, Bednarskich i&nbsp;dusze
+                                    w&nbsp;czyśćcu cierpiące</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 5&nbsp;listopada</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
+                                        cierpiące<br>
+                                    2. + Tadeusza Piechowskiego<br>
+                                    3. + Mariana Strzębskiego – m-c po&nbsp;śmierci</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
+                                    2. + Dariusza Chmiela</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 6&nbsp;listopada</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + z rodz. Kasprzyckich i&nbsp;Nowaków<br>
+                                    2. + Aleksandrę Durę</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + z&nbsp;Legionu Maryi<br>
+                                    2. + Janinę rocz. śm., Stefana Plachów, Kazimierę, Edmunda
+                                    Pietrasów, Genowefę, Stefana Burków, Mariannę
+                                    i&nbsp;Zdzisława Potockich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 7&nbsp;listopada</b></td>
+                                    <td><b>I&nbsp;Czwartek miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania
+                                        kapłańskie<br>
+                                    2. + Helenę Anwajler</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Katarzynę Zielińską<br>
+                                    2. + Jacentego Dudka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 8&nbsp;listopada</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + z&nbsp;rodz. Mądrych i&nbsp;Steców<br>
+                                    2. + Helenę Anwajler</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jana Mikulskiego<br>
+                                    2. + Janinę, Ludwika, Zofię, Ludwika Wilków, Teresę
+                                    i&nbsp;Jerzego Głowackich<br>
+                                    3. + Reginę Jońca</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 9&nbsp;listopada</b></td>
+                                    <td><b>Święto Rocznicy Poświęcenia Bazyliki Lateraneńskiej</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + z&nbsp;rodz. Kochańczyków i&nbsp;Kubików<br>
+                                    2. + Henryka Libickiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Roberta Mazura 1&nbsp;rocz. śm.<br>
+                                    2. + Jacentego Dudka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 10&nbsp;listopada</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXXII&nbsp;Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Bogusława Stępińskiego 34&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Antoniego, Mieczysławę 4&nbsp;rocz.
+                                    śm. Koziełów, Annę Joniec 5&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Otolię i&nbsp;Czesława Ciachów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>O&nbsp;doświadczenie Bożej miłości, łaskę nawrócenia
+                                    dla męża Piotra i&nbsp;ojca Tadeusza</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława Pacholczyka</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
@@ -304,6 +443,58 @@ include 'head.php';
                                 </tr>
                             </tbody>
                         </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>20.&nbsp;października 2024&nbsp;r.</h3>
+                                <h3>XXIX&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;minioną niedzielę do&nbsp;puszek na&nbsp;wsparcie Dzieła
+                                Nowego Tysiąclecia – stypendia dla zdolnej a&nbsp;ubogiej młodzieży
+                                zebrane zostało 3324&nbsp;zł + 50&nbsp;euro. <em>Bóg zapłać</em>
+                                wszystkim ofiarodawcom.</p>
+                                <p>2. Nabożeństwo różańcowe w&nbsp;październiku o&nbsp;godzinie 17.30
+                                w&nbsp;dni powszednie i&nbsp;w&nbsp;niedzielę. Zapraszamy
+                                do&nbsp;wzięcia udziału w&nbsp;tej pięknej modlitwie.</p>
+                                <p>3. W&nbsp;zeszłą niedziele w&nbsp;naszej parafii liczyliśmy
+                                wiernych uczestniczących we&nbsp;Mszach św. (<em>Dominicantes</em>)
+                                i&nbsp;przyjmujących Komunie&nbsp;św. (Comunicantes). Takie
+                                są&nbsp;dane: we&nbsp;Mszach św. uczestniczyło 1010 osób (665 kobiet
+                                i&nbsp;355 mężczyzn), do&nbsp;Komunii św. przystąpiło 412 osób (268
+                                kobiet i&nbsp;143 mężczyzn).</p>
+                                <p>4. Ta&nbsp;niedziela jest tzw. <strong>Niedzielą Misyjną</strong>
+                                i&nbsp;rozpoczyna <strong>Tydzień Misyjny</strong>, który
+                                ma&nbsp;na&nbsp;celu gorącą modlitwę i&nbsp;troskę o&nbsp;zrozumienie
+                                przez wiernych potrzeb misyjnych. Na&nbsp;różańcu będziemy się modlić
+                                w&nbsp;intencji misjonarzy, zwłaszcza za&nbsp;tych, pochodzących
+                                z&nbsp;naszej diecezji. Taca z&nbsp;tej niedzieli przeznaczona jest
+                                na&nbsp;Papieskie Dzieła Misyjne.</p>
+                                <p>5. Zapraszamy na&nbsp;spotkania Duszpasterstwa Dzieci
+                                i&nbsp;Młodzieży w&nbsp;naszej parafii. Spotkanie scholii
+                                w&nbsp;piątek o&nbsp;godz.&nbsp;16:30. Katecheza dla dzieci
+                                pierwszokomunijnych w&nbsp;sobotę 26&nbsp;października,
+                                o&nbsp;godz.&nbsp;10:00 w&nbsp;kościele. Spotkanie kandydatów
+                                do&nbsp;bierzmowania z&nbsp;klas 6, 7 i&nbsp;8 w&nbsp;niedzielę
+                                27&nbsp;października. O&nbsp;12:30 Msza Święta, a&nbsp;po&nbsp;Mszy
+                                katecheza w&nbsp;kościele.</p>
+                                <p>6. W&nbsp;sobotę – <strong>26 października</strong> – kolejny
+                                Wieczór Uwielbienia. O&nbsp;godz.&nbsp;18.00 – Msza Święta, następnie
+                                Adoracja Najświętszego Sakramentu. Zapraszamy do&nbsp;wspólnej
+                                modlitwy.</p>
+                                <p>7. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+                                Zachęcamy do&nbsp;lektury prasy katolickiej.</p>
+                                <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+                                za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 20.&nbsp;października 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>
