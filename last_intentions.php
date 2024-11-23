@@ -1,88 +1,14 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            18.11. – 24.11.2024&nbsp;r.
+            25.11. – 1.12.2024&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 18&nbsp;listopada</b></td>
-            <td><b>Wsp. Bł.&nbsp;Karoliny Kózkówny</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Stanisława Libickiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Lucynę Wolińską 20&nbsp;rocz. śm., Jana
-                Kędzierskiego<br>
-            2. + Józefa Wasińskiego</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 19&nbsp;listopada</b></td>
-            <td><b></b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Janinę i&nbsp;Bronisława</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Jacentego Dudka<br>
-            2. + Leszka Bobolę</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 20&nbsp;listopada</b></td>
-            <td><b>Wsp. Św.&nbsp;Rafała Kalinowskiego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Stanisława Libickiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Ryszarda Pietruszkę rocz. śm., Józefę, Jana
-                Marców<br>
-            2. + Henryka Semprucha</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 21&nbsp;listopada</b></td>
-            <td><b>Wsp. Ofiarowania MNP</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Tadeusza Piechowskiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Aleksandrę Szcześniak<br>
-            2. + Franciszka Turka</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 22&nbsp;listopada</b></td>
-            <td><b>Wsp. Św.&nbsp;Cecylii</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Tadeusza Piechowskiego</td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>1. + Henrykę 1&nbsp;rocz. śm. i&nbsp;Józefa
-                16&nbsp;rocz. śm.&nbsp;Tacikiewiczów<br>
-            2. + Leszka Bobolę<br>
-            3. + Adama Urbaniaka</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>SOBOTA, 23&nbsp;listopada</b></td>
+            <td><b>PONIEDZIAŁEK, 25&nbsp;listopada</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -92,38 +18,111 @@
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>1. + Janinę, Stanisława Kulów, Tadeusza
-                Trześniowskiego<br>
-            2. + Franciszka Turka</td>
+            <td>1. + Marię, Kazimierza Sochów, Marcelinę Bączkowską<br>
+            2. + Jacentego Dudka</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 24&nbsp;listopada</b></td>
+            <td><b>WTOREK, 26&nbsp;listopada</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Edwarda Sądeja – greg.<br>
+            2. + Czesława Godlewskiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Adama Urbaniaka<br>
+            2. + Andrzeja Sochę, Mariannę, Wacława, Grażynę Pruś</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>ŚRODA, 27&nbsp;listopada</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Edwarda Sądeja – greg.<br>
+            2. + Tadeusza Piechowskiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Franciszka Turka<br>
+            2. + Adama Urbaniaka</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>CZWARTEK, 28&nbsp;listopada</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Zdzisława, Teodozję, zm. z&nbsp;rodz., dusze
+                w&nbsp;czyśćcu cierpiące<br>
+            2. + Tadeusza Piechowskiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Edwarda Sądeja – greg.<br>
+            2. + Leszka Bobolę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 29&nbsp;listopada</b></td>
+            <td><b></b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Edwarda Sądeja – greg.<br>
+            2. + Czesława Godlewskiego</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Mieczysława Kucwaja – m-c. po&nbsp;śm.<br>
+            2. + Irenę, Piotra, Stanisława Studnickich, zm.
+            z&nbsp;rodz.<br>
+            3. + Dorotę Surma - 7&nbsp;rocz. śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 30&nbsp;listopada</b></td>
+            <td><b>Święto Św.&nbsp;Andrzeja Apostoła</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>1. + Edwarda Sądeja – greg.<br>
+            2. W&nbsp;int. Sylwii i&nbsp;Bogusława
+            w&nbsp;35&nbsp;rocz. ślubu</td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>1. + Jana rocz. śm.<br>
+            2. + Andrzeja Spadło, Bogusława i&nbsp;Anielę Spadło</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 1&nbsp;grudnia</b></td>
             <td><b>
-                <span style="color: red">XXXIV&nbsp;Niedziela Zwykła<br>
-                Uroczystość Jezusa Chrystusa, Króla Wszechświata</span>
+                <span style="color: red">I&nbsp;Niedziela Adwentu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>1. + Edwarda Sądeja – greg.<br>
-            2. + Bogusława Stępińskiego 34&nbsp;rocz. śm.</td>
+            2. Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Mariannę, Tadeusza Łukawskich i&nbsp;zm.
+            z&nbsp;rodz.</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Genowefę i&nbsp;Mieczysława Chałupczaków</td>
+            <td>K.Ż.R. – od&nbsp;Róży z&nbsp;Milczan</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Sławomira, Kazimierę, Stanisława Rykowskich,
-            Stefanię i&nbsp;Adama Osuchów</td>
+            <td>O&nbsp;Boże błog., potrzebne łaski, dary Ducha Św.
+            dla Sylwii i&nbsp;Bogusława w&nbsp;35&nbsp;rocz. ślubu</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Jana Chmiela</td>
+            <td>+ Stanisławę w&nbsp;rocz. śm.</td>
         </tr>
     </tbody>
 </table>
