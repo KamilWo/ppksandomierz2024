@@ -19,7 +19,142 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 1.&nbsp;grudnia 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;grudnia 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    2.12. – 8.12.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 2&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + zm. z&nbsp;rodz. Kijanków i&nbsp;Radzimowskich<br>
+                                    2. + Stanisława Wójcika</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. O&nbsp;Boże błog. dla Ireny z&nbsp;okazji urodzin<br>
+                                    2. + Edwarda Sądeja – greg.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 3&nbsp;grudnia</b></td>
+                                    <td><b>Wsp. Św.&nbsp;Franciszka Ksawerego</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. W&nbsp;int. dzieci i&nbsp;chrześniaków o&nbsp;łaskę
+                                        wiary<br>
+                                    2. + Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Edwarda Sądeja – greg.<br>
+                                    2. + Leszka Bobolę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 4&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Edwarda Sądeja – greg.<br>
+                                    2. + Helenę Anwajler</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Roberta Burka 1&nbsp;rocz. śm.<br>
+                                    2. O&nbsp;Boże błog. dla ks.&nbsp;Krystiana<br>
+                                    3. O&nbsp;Boże błog., dary Ducha Św., potrzebne łaski
+                                    na&nbsp;dalsze lata posługi kapłańskiej dla
+                                    Ks.&nbsp;K.&nbsp;Kałuży i&nbsp;ks.&nbsp;K.&nbsp;Musiała</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 5&nbsp;grudnia</b></td>
+                                    <td><b>I&nbsp;czwartek miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania<br>
+                                    2. Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Jacentego Dudka – 1&nbsp;rocz. śm.<br>
+                                    2. + Edwarda Sądeja – greg.<br>
+                                    3. + Adama Urbaniaka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 6&nbsp;grudnia</b></td>
+                                    <td><b>I&nbsp;piątek miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Edwarda Sądeja – greg.<br>
+                                    2. + Czesława Godlewskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Leszka Bobolę<br>
+                                    2. + Franciszka Turka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 7&nbsp;grudnia</b></td>
+                                    <td><b>Wsp. Św.&nbsp;Ambrożego<br>
+                                    I&nbsp;sobota miesiąca</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. O&nbsp;łaskę dobrej śmierci<br>
+                                    2. + Edwarda Sądeja – greg.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. LM<br>
+                                    2. + Mariana – rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 8&nbsp;grudnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">II&nbsp;Niedziela Adwentu<br>
+                                        Uroczystość Niepokalanego Poczęcia NMP</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>1. + Mariannę Czajkę i&nbsp;zm. z&nbsp;rodz. Czajków
+                                        i&nbsp;Gachów<br>
+                                    2. + Edwarda Sądeja – greg.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Mariannę, Kazimierza Kołodziejów i&nbsp;zm.
+                                    z&nbsp;rodz. Bryłów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Macieja Ziemnickiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Teresę Smardz</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
@@ -472,6 +607,63 @@ include 'head.php';
                                 </ol>
                                 <h4 class="mt-2">Poprzednie wpisy przeniesiono do
                                     <a href="archiwum.php">archiwum</a>.</h4>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>10.&nbsp;listopada 2024&nbsp;r.</h3>
+                                <h3>XXXII&nbsp;Niedziela Zwykła, Rok&nbsp;B</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziś w&nbsp;kościele Powszechnym przeżywamy „Dzień Solidarności
+                                z&nbsp;Kościołem prześladowanym” pod hasłem „S.O.S. dla Ziemi Świętej”
+                                –  po&nbsp;Mszach św.&nbsp;zbiórka do&nbsp;puszek. <em>Bóg zapłać</em>
+                                ofiarodawcom.</p>
+                                <p>2. Jutro tj.&nbsp;11&nbsp;listopada - Narodowe Święto
+                                Niepodległości. W&nbsp;tym dniu, Msza&nbsp;św. w&nbsp;intencji
+                                Ojczyzny o&nbsp;godz.&nbsp;18.00.</p>
+                                <p>3. Także jutro w&nbsp;kościele św.&nbsp;Józefa
+                                o&nbsp;godz.&nbsp;19.00 Msza&nbsp;św. w&nbsp;intencji kobiet,
+                                a&nbsp;po&nbsp;niej – <strong>Warsztaty dla Pań: "Zadbaj o&nbsp;Swoje
+                                Piękno"</strong> – prowadzące ekspertki ds.&nbsp;pielęgnacji
+                                i&nbsp;makijażu Mary Kay. Zapraszamy.</p>
+                                <p>4. We&nbsp;wtorek o&nbsp;godz.&nbsp;18.00 kolejna Msza Święta
+                                w&nbsp;intencji osób uzależnionych i&nbsp;ich rodzin. Podczas tej Mszy
+                                Świętej będzie możliwość złożenia miesięcznych postanowień
+                                abstynenckich. Osoby chętne, które chcą podjąć miesięczną abstynencję
+                                prosimy, aby zabrały ze&nbsp;stolika pod chórem deklaracje, które
+                                należy przynieść we&nbsp;wtorek na&nbsp;Msze Św.</p>
+                                <p>5. Zapraszamy na&nbsp;spotkania duszpasterstwa dzieci
+                                i&nbsp;młodzieży w&nbsp;naszej parafii. Spotkanie kandydatów
+                                na&nbsp;ministranta i&nbsp;młodszych ministrantów w&nbsp;sobotę
+                                o&nbsp;godz.&nbsp;10 w&nbsp;kościele. Zajęcia sportowe na&nbsp;hali
+                                sportowej w&nbsp;każdą sobotę listopada będą od&nbsp;godziny
+                                14&nbsp;do&nbsp;godziny 16&nbsp;na&nbsp;hali przy ulicy Cieśli.</p>
+                                <p>6. W&nbsp;przyszłą niedzielę 17&nbsp;listopada obchodzić będziemy
+                                Światowy Dzień Ubogich. Diecezjalne obchody tego dnia obędą się
+                                w&nbsp;Sandomierzu w&nbsp;kościele pw.&nbsp;Świętego Ducha.
+                                Eucharystii przewodniczył będzie Biskup Krzysztof Nitkiewicz.
+                                Msza&nbsp;św. o&nbsp;godz.&nbsp;11.30 Następnie o&nbsp;12.30 Koncert
+                                Olgi Szomańskiej pt.&nbsp;„Tylko miłość”.</p>
+                                <p>7. Także w&nbsp;przyszłą niedzielę spotkanie dla rodziców dzieci
+                                pierwszokomunijnych. Rozpoczęcie spotkania Mszą Świętą
+                                o&nbsp;godz.&nbsp;12:30.</p>
+                                <p>8. W&nbsp;ostatnią niedzielę listopada (za&nbsp;2&nbsp;tygodnie)
+                                grupa młodzieżowa naszej parafii będzie organizować akcję „Ciastko
+                                przed adwentem”. Kto by&nbsp;chciał włączyć się w&nbsp;organizację
+                                tej inicjatywy i&nbsp;upiec ciasto to&nbsp;prosimy o&nbsp;zgłoszenie
+                                się do&nbsp;księdza Wojciecha do&nbsp;końca tego tygodnia.</p>
+                                <p>9. Katolicka prasa na&nbsp;stoliku pod chórem.</p>
+                                <p>10. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+                                za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 10.&nbsp;listopada 2024&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
                             </div>
                         </div>
                         <br>
