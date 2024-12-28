@@ -19,7 +19,307 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2024 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;grudnia 2024&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 29.&nbsp;grudnia 2024&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    23.12. – 29.12.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 23&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Wincentego, Janinę Jakus; Jana Stąpora i&nbsp;zm.
+                                        z&nbsp;rodz. Świątańskich<br>
+                                    2. + Stanisława Wójcika</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Czesława Dudę<br>
+                                    2. + Stanisława Wnuka 14&nbsp;rocz. śm., Zofię, Marię
+                                    i&nbsp;Jana Wnuków<br>
+                                    3. + Mariana Wojtasa</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 24&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + z&nbsp;rodz. Ziółków i&nbsp;Kucharskich,
+                                        i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+                                    2. + Adama Urbaniaka<br>
+                                    3. + Annę Strawczyńską<br>
+                                    4. + Stanisława Wójcika</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td><b>NIE MA MSZY ŚWIĘTEJ</b></td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 25&nbsp;grudnia</b></td>
+                                    <td><b><span style="color: red">UROCZYSTOŚĆ NARODZENIA
+                                    PAŃSKIEGO</span></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">24.00</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Józefa Sobieraja</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Stanisława, Leokadię, Romana, Marię Majchrów,
+                                    Krzysztofa, Józefa, Stefanię Łukawskich, Jadwigę,
+                                    Stanisława, Zofię Karasińskich</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Józefa, Stefanię Janusów, Alicję Gilewską, Teresę
+                                    Nowakowską, Zdzisława Gilewskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Witolda 7&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariana Patynę rocz. śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 26&nbsp;grudnia</b></td>
+                                    <td><b><span style="color: red">Święto Św.&nbsp;Szczepana,
+                                    pierwszego męczennika</span></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Reginę Jońca rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Stefanię, Franciszka Kowalskich, Marię Woś, Wiesławę
+                                    Wałcerz, Celinę, Jana, Jarosława Gucałów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Marcina, Józefa i&nbsp;zm. z&nbsp;rodz. Ozdobów,
+                                    i&nbsp;Nagórnych</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Adama Urbaniaka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td><b>NIE MA MSZY ŚWIĘTEJ</b></td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 27&nbsp;grudnia</b></td>
+                                    <td><b>Święto św.&nbsp;Jana Ewangelisty</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Annę Strawczyńską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Danurę Chruściel<br>
+                                    2. + Józefa Sobieraja<br>
+                                    3. + Stefanię, Aleksandra Zimnickich, Władysławę,
+                                    Franciszka, Janusza Plachów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 28&nbsp;grudnia</b></td>
+                                    <td><b>Święto Świętych Młodzianków Męczenników</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Annę Strawczyńską<br>
+                                    2. + Marka Frańczaka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. O&nbsp;Boże błog. dla Stanisławy i&nbsp;Tadeusza
+                                        w&nbsp;rocz. ślubu<br>
+                                    2. + Zofię i&nbsp;Mariana Krawczyków<br>
+                                    3. + Józefa Sobieraja</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 29&nbsp;grudnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">Święto Świętej Rodziny:
+                                        Jezusa, Maryi i&nbsp;Józefa</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Janinę, Stanisława, Bronisławę, Józefa Rędziaków,
+                                    Feliksa i Mariannę Kwiatkowskich, Danutę Andrzejewską</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Józefa Krasudę 9&nbsp;rocz. śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Stanisława Bednarskiego 2&nbsp;rocz. śm., zm.
+                                    z&nbsp;rodz. Bednarskich i&nbsp;Bajurów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Adama Wawrzkiewicza, Jana Olesia</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    16.12. – 22.12.2024&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 16&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Otolię, Władysława, Tomasza i&nbsp;Eugeniusza<br>
+                                    2. + Stanisława Wójcika</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Genowefę – rocz. śm., Stefana, Jarosława, Annę,
+                                    Józefa Burków; Janinę, Stefana Plachów; Paulinę,
+                                    Mieczysława Ramusów; Kazimierę Pietras; Marię Potocką;
+                                    Józefę, Romana Siudaków<br>
+                                    2. + Jana Mazura</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 17&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Adama Urbaniaka<br>
+                                    2. + Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Stanisławę Ćmiel – rocz.&nbsp;śm., i&nbsp;zm.
+                                        z&nbsp;rodz. Ćmielów<br>
+                                    2. + Józefa Sobieraja</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 18&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Józefa Sobieraja<br>
+                                    2. + Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Leszka Bobolę<br>
+                                    2. + Adama Urbaniaka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 19&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. W&nbsp;int. Szczepana o&nbsp;potrzebne łaski<br>
+                                    2. + Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Krzysztofa Zawidzkiego – m-c po&nbsp;śmierci<br>
+                                    2. + Franciszka Turka<br>
+                                    3. + Józefa Sobieraja</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 20&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Adama Urbaniaka<br>
+                                    2. + Tadeusza Piechowskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Dariusza Bełczowskiego 5&nbsp;rocz. śm.,
+                                    Krystynę, Józefa Smolińskich; Grażynę Dziurzyńską<br>
+                                    2. + Józefa Sobieraja</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 21&nbsp;grudnia</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>1. + Paulinę, Katarzynę, Tomasza Grobelskich<br>
+                                    2. + Stanisława Wójcika</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>1. + Leszka Bobolę<br>
+                                    2. + Józefa Sobieraja</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 22&nbsp;grudnia</b></td>
+                                    <td><b>
+                                        <span style="color: red">IV&nbsp;Niedziela Adwentu</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Bogusławę i&nbsp;Józefa Cukrowskich</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Andrzeja Kowalczyka i&nbsp;zm. z&nbsp;rodz.
+                                    Szymanków, Kowalczyków</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Tomasza Płatosa</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Barbarę, Mieczysława Bryłów; Bogusława Bryłę,
+                                    Andrzeja Jakubowskiego</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
