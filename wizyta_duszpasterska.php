@@ -10,51 +10,26 @@
         błogosławi.</p>
     </div>
     <div class="card-header">
-        <h3>Prządek Wizyty Duszpasterskiej 2023/2024 w&nbsp;tym tygodniu</h3>
+        <h3>Prządek Wizyty Duszpasterskiej 2024/2025 w&nbsp;tym tygodniu</h3>
     </div>
+
     <div class="col">
-        <p style="font-weight: bold; text-decoration: underline;">15&nbsp;STYCZNIA (PONIEDZIAŁEK)</p>
+        <p style="font-weight: bold; text-decoration: underline;">30&nbsp;GRUDNIA (PONIEDZIAŁEK)</p>
         <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Cieśli nr&nbsp;1</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Cieśli nr&nbsp;3</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego nr&nbsp;3</p><br>
+        <p>I&nbsp;Ksiądz – ul.&nbsp;Asnyka i&nbsp;Reymonta</p>
+        <p>II&nbsp;Ksiądz – ul.&nbsp;Warzywna i&nbsp;Jabłoniowa</p>
+        <p>III&nbsp;Ksiądz – ul.&nbsp;Sadownicza i&nbsp;Brzoskwiniowa</p>
+        <p>IV&nbsp;Ksiądz – Sucharzów</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">16&nbsp;STYCZNIA (WTOREK)</p>
+        <p style="font-weight: bold; text-decoration: underline;">31&nbsp;GRUDNIA (WTOREK)</p>
         <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego nr&nbsp;5, 7, 9</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego nr&nbsp;11, 12, 13, 14, 19</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego nr&nbsp;17</p><br>
+        <p>I&nbsp;Ksiądz – II&nbsp;Ksiądz – ul.&nbsp;15-tego Sierpnia –
+        z&nbsp;końców ulicy do&nbsp;zejścia się.</p>
+        <p>III&nbsp;Ksiądz – ul.&nbsp;Grodzisko</p>
+        <p>IV&nbsp;Ksiądz – ul.&nbsp;Mikołaja Reja</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">17&nbsp;STYCZNIA (ŚRODA)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;2</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;4</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;5</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">18&nbsp;STYCZNIA (CZWARTEK)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;6</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;7, 8</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;9</p>
-
-        <p style="font-weight: bold; text-decoration: underline;">19&nbsp;STYCZNIA (PIĄTEK)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;15.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;10</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;11</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;13, 15</p><br>
-
-        <p style="font-weight: bold; text-decoration: underline;">19&nbsp;STYCZNIA (SOBOTA)</p>
-        <p><strong>Od&nbsp;godz.&nbsp;9.00:</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;32, 34, 36</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego nr&nbsp;38, 40</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: osoby, które nie mogły przyjąć kapłana
-        z&nbsp;wizytą duszpasterską w&nbsp;wyznaczonym terminie.</p><br>
-
-        <p>Wszystkie rodziny, które nie mogły przyjąć kapłana z&nbsp;wizytą
-        duszpasterską w&nbsp;wyznaczonym terminie, prosimy zgłaszać
-        w&nbsp;zakrystii do&nbsp;piątku <strong>19&nbsp;stycznia</strong>.
-        Wszystkie te&nbsp;rodziny odwiedzimy w&nbsp;sobotę 20&nbsp;stycznia
-        od&nbsp;godz.&nbsp;9.00.</p><br>
+        <p><strong>W&nbsp;Nowy Rok podamy dalszy porządek wizyty
+        duszpasterskiej w&nbsp;tym tygodniu.</strong></p><br>
     </div>
 </div>
 <br>
